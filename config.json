@@ -1,0 +1,12 @@
+{
+  "default_keywords": "LLM reasoning",
+  "paper_count": 3,
+  "sort_by": "relevance",
+  "sources": ["arxiv"],
+  "time_range": "7d",
+  "notes": {
+    "sort_by_options": ["relevance", "date"],
+    "time_range_options": ["24h", "7d", "30d"],
+    "sources_options": ["arxiv", "semantic_scholar"]
+  }
+}

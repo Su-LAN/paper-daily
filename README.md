@@ -8,6 +8,7 @@ Daily paper digest powered by Claude Code skill.
 - Summarize contributions, methods, experiments, and conclusions
 - Auto-commit and push to GitHub
 - Schedule daily runs with macOS LaunchAgent
+- Configurable sorting (by relevance or date)
 
 ## Structure
 
@@ -15,20 +16,49 @@ Daily paper digest powered by Claude Code skill.
 paper-daily/
 ├── papers/                    # Daily paper summaries
 │   └── YYYY-MM-DD-keywords.md
+├── config.json                # Configuration file
 ├── run.sh                     # Manual run script
 └── README.md
 ```
+
+## Configuration
+
+Edit `config.json` to customize default behavior:
+
+```json
+{
+  "default_keywords": "LLM reasoning",
+  "paper_count": 3,
+  "sort_by": "relevance",
+  "time_range": "7d"
+}
+```
+
+| Option | Values | Description |
+|--------|--------|-------------|
+| `default_keywords` | any string | Default search keywords |
+| `paper_count` | 1-10 | Number of papers to summarize |
+| `sort_by` | `relevance` / `date` | Sort by relevance or newest first |
+| `time_range` | `24h` / `7d` / `30d` | Time range for paper search |
 
 ## Usage
 
 ### Manual Run
 
 ```bash
-# Using Claude Code skill directly
+# Basic usage
 claude "/paper-daily LLM reasoning"
 
+# Sort by newest first
+claude "/paper-daily LLM agents --sort=date"
+
+# Get more papers
+claude "/paper-daily multimodal --count=5"
+
+# Use default keywords from config
+claude "/paper-daily"
+
 # Using the run script
-~/paper-daily/run.sh "multimodal vision"
 ~/paper-daily/run.sh "code generation"
 ```
 
@@ -41,7 +71,7 @@ Check logs:
 cat /tmp/paper-daily.log
 ```
 
-### Modify Default Keywords
+### Modify LaunchAgent Keywords
 
 Edit `~/Library/LaunchAgents/com.paper-daily.plist` and reload:
 ```bash
