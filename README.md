@@ -284,7 +284,3 @@ MIT
 ## 🤝 Contributing
 
 欢迎提交 Issue 和 Pull Request!
-
----
-
-Made with ❤️ by Claude Code
