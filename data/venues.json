@@ -1,0 +1,55 @@
+{
+  "description": "顶级会议和期刊列表 (CCF-A / CORE A* / A)",
+  "conferences": {
+    "AI_ML": {
+      "CCF-A": ["NeurIPS", "ICML", "ICLR", "AAAI", "IJCAI"],
+      "CORE-A*": ["NeurIPS", "ICML", "ICLR"],
+      "CORE-A": ["AAAI", "IJCAI", "AAMAS", "ECAI"]
+    },
+    "CV": {
+      "CCF-A": ["CVPR", "ICCV", "ECCV"],
+      "CORE-A*": ["CVPR", "ICCV"],
+      "CORE-A": ["ECCV", "WACV", "BMVC"]
+    },
+    "NLP": {
+      "CCF-A": ["ACL", "EMNLP", "NAACL"],
+      "CORE-A*": ["ACL"],
+      "CORE-A": ["EMNLP", "NAACL", "COLING", "EACL"]
+    },
+    "IR": {
+      "CCF-A": ["SIGIR", "WWW", "KDD"],
+      "CORE-A*": ["SIGIR", "KDD", "WWW"],
+      "CORE-A": ["WSDM", "CIKM", "RecSys"]
+    },
+    "Systems": {
+      "CCF-A": ["OSDI", "SOSP", "NSDI", "ATC", "EuroSys"],
+      "CORE-A*": ["OSDI", "SOSP"],
+      "CORE-A": ["NSDI", "ATC", "EuroSys", "ASPLOS"]
+    }
+  },
+  "journals": {
+    "AI_ML": {
+      "CCF-A": ["AI", "TPAMI", "IJCV", "JMLR"],
+      "note": "AI=Artificial Intelligence, TPAMI=IEEE Trans on PAMI"
+    },
+    "NLP": {
+      "CCF-A": ["TACL", "CL"],
+      "note": "TACL=Trans of ACL, CL=Computational Linguistics"
+    }
+  },
+  "keywords_to_venue": {
+    "NeurIPS": ["neurips", "nips", "neural information processing"],
+    "ICML": ["icml", "international conference on machine learning"],
+    "ICLR": ["iclr", "international conference on learning representations"],
+    "CVPR": ["cvpr", "computer vision and pattern recognition"],
+    "ACL": ["acl", "association for computational linguistics"],
+    "EMNLP": ["emnlp", "empirical methods in natural language processing"],
+    "AAAI": ["aaai"],
+    "IJCAI": ["ijcai"],
+    "KDD": ["kdd", "knowledge discovery and data mining"],
+    "SIGIR": ["sigir"],
+    "WWW": ["www", "world wide web"],
+    "ICCV": ["iccv", "international conference on computer vision"],
+    "ECCV": ["eccv", "european conference on computer vision"]
+  }
+}

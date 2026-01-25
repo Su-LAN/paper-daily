@@ -2,11 +2,21 @@
   "default_keywords": "LLM reasoning",
   "paper_count": 3,
   "sort_by": "relevance",
-  "sources": ["arxiv"],
+  "sources": ["arxiv", "semantic_scholar"],
   "time_range": "7d",
+  "venue_filter": {
+    "enabled": true,
+    "levels": ["CCF-A", "CORE-A*", "CORE-A"],
+    "include_preprints": true
+  },
+  "citation_tracking": {
+    "enabled": true,
+    "update_existing": true
+  },
   "notes": {
-    "sort_by_options": ["relevance", "date"],
+    "sort_by_options": ["relevance", "date", "citations"],
     "time_range_options": ["24h", "7d", "30d"],
-    "sources_options": ["arxiv", "semantic_scholar"]
+    "sources_options": ["arxiv", "semantic_scholar"],
+    "venue_levels": ["CCF-A", "CORE-A*", "CORE-A"]
   }
 }

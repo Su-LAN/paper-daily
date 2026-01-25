@@ -1,14 +1,15 @@
 # Paper Daily
 
-Daily paper digest powered by Claude Code skill.
+Daily paper digest powered by Claude Code skill. Focuses on top-tier venues (CCF-A / CORE A*) with citation tracking.
 
 ## Features
 
-- Search latest papers from arXiv
-- Summarize contributions, methods, experiments, and conclusions
+- Search papers from top conferences (NeurIPS, ICML, CVPR, ACL, etc.)
+- Filter by venue ranking (CCF-A, CORE A*, CORE A)
+- Track citation counts over time
+- Memory system to avoid duplicate papers
+- Generate citation growth reports
 - Auto-commit and push to GitHub
-- Schedule daily runs with macOS LaunchAgent
-- Configurable sorting (by relevance or date)
 
 ## Structure
 
@@ -16,65 +17,106 @@ Daily paper digest powered by Claude Code skill.
 paper-daily/
 ├── papers/                    # Daily paper summaries
 │   └── YYYY-MM-DD-keywords.md
-├── config.json                # Configuration file
+├── reports/                   # Citation tracking reports
+│   └── YYYY-MM-citation-report.md
+├── data/
+│   ├── papers.json            # Paper memory & citation history
+│   └── venues.json            # Top venue definitions
+├── config.json                # Configuration
 ├── run.sh                     # Manual run script
 └── README.md
 ```
 
 ## Configuration
 
-Edit `config.json` to customize default behavior:
+Edit `config.json`:
 
 ```json
 {
   "default_keywords": "LLM reasoning",
   "paper_count": 3,
   "sort_by": "relevance",
-  "time_range": "7d"
+  "venue_filter": {
+    "enabled": true,
+    "levels": ["CCF-A", "CORE-A*", "CORE-A"],
+    "include_preprints": true
+  },
+  "citation_tracking": {
+    "enabled": true,
+    "update_existing": true
+  }
 }
 ```
 
 | Option | Values | Description |
 |--------|--------|-------------|
-| `default_keywords` | any string | Default search keywords |
-| `paper_count` | 1-10 | Number of papers to summarize |
-| `sort_by` | `relevance` / `date` | Sort by relevance or newest first |
-| `time_range` | `24h` / `7d` / `30d` | Time range for paper search |
+| `sort_by` | `relevance` / `date` / `citations` | Sorting method |
+| `venue_filter.levels` | CCF-A, CORE-A*, CORE-A | Venue rankings to include |
+| `citation_tracking.enabled` | true/false | Track citation counts |
 
 ## Usage
 
-### Manual Run
+### Search New Papers
 
 ```bash
-# Basic usage
-claude "/paper-daily LLM reasoning"
+# Search for LLM papers from top venues
+claude "/paper-daily LLM agents"
 
-# Sort by newest first
-claude "/paper-daily LLM agents --sort=date"
+# Sort by citation count
+claude "/paper-daily LLM agents --sort=citations"
 
 # Get more papers
 claude "/paper-daily multimodal --count=5"
+```
 
-# Use default keywords from config
-claude "/paper-daily"
+### Update Citations
 
-# Using the run script
-~/paper-daily/run.sh "code generation"
+```bash
+# Update citation counts for all tracked papers
+claude "/paper-daily --update"
+```
+
+### Generate Report
+
+```bash
+# Generate citation growth report
+claude "/paper-daily --report"
 ```
 
 ### Automatic Daily Run
 
-LaunchAgent runs automatically at 9:00 AM daily.
+LaunchAgent runs at 9:00 AM daily.
 
 Check logs:
 ```bash
 cat /tmp/paper-daily.log
 ```
 
-### Modify LaunchAgent Keywords
+## Top Venues Tracked
 
-Edit `~/Library/LaunchAgents/com.paper-daily.plist` and reload:
-```bash
-launchctl unload ~/Library/LaunchAgents/com.paper-daily.plist
-launchctl load ~/Library/LaunchAgents/com.paper-daily.plist
-```
+### AI/ML (CCF-A)
+NeurIPS, ICML, ICLR, AAAI, IJCAI
+
+### Computer Vision (CCF-A)
+CVPR, ICCV, ECCV
+
+### NLP (CCF-A)
+ACL, EMNLP, NAACL
+
+### Information Retrieval (CCF-A)
+SIGIR, WWW, KDD
+
+## Output Format
+
+Each paper summary includes:
+- Title, authors, publication date
+- Venue and ranking (e.g., "NeurIPS 2025 (CCF-A)")
+- Citation count with tracking
+- Contribution, method, experiments, conclusion
+
+## Citation Tracking
+
+The system tracks citation growth over time:
+- New citations added to `data/papers.json` daily
+- Monthly reports show top growing papers
+- Helps identify trending research
