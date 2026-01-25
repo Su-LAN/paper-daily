@@ -1,24 +1,96 @@
 {
-  "papers": {},
-  "last_updated": null,
-  "notes": {
-    "structure": {
-      "papers": {
-        "<arxiv_id>": {
-          "title": "论文标题",
-          "authors": ["作者1", "作者2"],
-          "arxiv_id": "2501.12345",
-          "url": "https://arxiv.org/abs/2501.12345",
-          "venue": "ICML 2025",
-          "venue_rank": "CCF-A",
-          "first_seen": "2025-01-25",
-          "keywords": ["LLM", "agents"],
-          "citation_history": [
-            {"date": "2025-01-25", "count": 0},
-            {"date": "2025-01-26", "count": 5}
-          ]
-        }
-      }
+  "papers": {
+    "2506.21215": {
+      "title": "Unveiling Causal Reasoning in Large Language Models: Reality or Mirage?",
+      "authors": ["Haoang Chi", "He Li", "Wenjing Yang", "Feng Liu", "Long Lan", "Xiaoguang Ren", "Tongliang Liu", "Bo Han"],
+      "arxiv_id": "2506.21215",
+      "url": "https://arxiv.org/abs/2506.21215",
+      "venue": "NeurIPS 2025",
+      "venue_rank": "CCF-A",
+      "first_seen": "2026-01-25",
+      "keywords": ["Causal", "LLM", "reasoning"],
+      "citation_history": [
+        {"date": "2026-01-25", "count": 54}
+      ]
+    },
+    "2403.09606": {
+      "title": "Large Language Models and Causal Inference in Collaboration: A Survey",
+      "authors": ["Xiaoyu Liu", "Paiheng Xu", "Junda Wu", "Jiaxin Yuan", "Yifan Yang", "Yuhang Zhou", "Fuxiao Liu", "Tianrui Guan", "Haoliang Wang", "Tong Yu", "Julian J. McAuley", "Wei Ai", "Furong Huang"],
+      "arxiv_id": "2403.09606",
+      "url": "https://arxiv.org/abs/2403.09606",
+      "venue": "arXiv",
+      "venue_rank": "Survey",
+      "first_seen": "2026-01-25",
+      "keywords": ["Causal", "LLM", "survey"],
+      "citation_history": [
+        {"date": "2026-01-25", "count": 28}
+      ]
+    },
+    "2409.09822": {
+      "title": "Causal Inference with Large Language Model: A Survey",
+      "authors": ["Jing Ma"],
+      "arxiv_id": "2409.09822",
+      "url": "https://arxiv.org/abs/2409.09822",
+      "venue": "NAACL",
+      "venue_rank": "CCF-A",
+      "first_seen": "2026-01-25",
+      "keywords": ["Causal", "LLM", "inference"],
+      "citation_history": [
+        {"date": "2026-01-25", "count": 23}
+      ]
+    },
+    "2402.11068": {
+      "title": "Large Language Models for Causal Discovery: Current Landscape and Future Directions",
+      "authors": ["Guangya Wan", "Yunsheng Lu", "Yuqi Wu", "Mengxuan Hu", "Sheng Li"],
+      "arxiv_id": "2402.11068",
+      "url": "https://arxiv.org/abs/2402.11068",
+      "venue": "IJCAI 2024",
+      "venue_rank": "CCF-A",
+      "first_seen": "2026-01-25",
+      "keywords": ["Causal", "LLM", "discovery"],
+      "citation_history": [
+        {"date": "2026-01-25", "count": 14}
+      ]
+    },
+    "2410.23884": {
+      "title": "Failure Modes of LLMs for Causal Reasoning on Narratives",
+      "authors": ["Khurram Yamin", "Shantanu Gupta", "Gaurav R. Ghosal", "Zachary Chase Lipton", "Bryan Wilder"],
+      "arxiv_id": "2410.23884",
+      "url": "https://arxiv.org/abs/2410.23884",
+      "venue": "arXiv",
+      "venue_rank": "preprint",
+      "first_seen": "2026-01-25",
+      "keywords": ["Causal", "LLM", "failure modes"],
+      "citation_history": [
+        {"date": "2026-01-25", "count": 8}
+      ]
+    },
+    "2410.06392": {
+      "title": "Counterfactual Causal Inference in Natural Language with Large Language Models",
+      "authors": ["Gaël Gendron", "Jovze M. Rovzanec", "Michael Witbrock", "Gillian Dobbie"],
+      "arxiv_id": "2410.06392",
+      "url": "https://arxiv.org/abs/2410.06392",
+      "venue": "arXiv",
+      "venue_rank": "preprint",
+      "first_seen": "2026-01-25",
+      "keywords": ["Causal", "LLM", "counterfactual"],
+      "citation_history": [
+        {"date": "2026-01-25", "count": 7}
+      ]
+    },
+    "2508.04495": {
+      "title": "Causal Reflection with Language Models",
+      "authors": ["Abi Aryan", "Zac Liu"],
+      "arxiv_id": "2508.04495",
+      "url": "https://arxiv.org/abs/2508.04495",
+      "venue": "arXiv",
+      "venue_rank": "preprint",
+      "first_seen": "2026-01-25",
+      "keywords": ["Causal", "LLM", "reflection"],
+      "citation_history": [
+        {"date": "2026-01-25", "count": 1}
+      ]
     }
-  }
+  },
+  "last_updated": "2026-01-25"
 }
