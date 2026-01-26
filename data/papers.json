@@ -1,5 +1,44 @@
 {
   "papers": {
+    "2312.04350": {
+      "title": "CLadder: Assessing Causal Reasoning in Language Models",
+      "authors": ["Zhijing Jin", "Yuen Chen", "Felix Leeb", "Luigi Gresele", "Ojasv Kamal", "Zhiheng Lyu", "Kevin Blin", "Fernando Gonzalez Adauto", "Max Kleiman-Weiner", "Mrinmaya Sachan", "Bernhard Schölkopf"],
+      "arxiv_id": "2312.04350",
+      "url": "https://arxiv.org/abs/2312.04350",
+      "venue": "NeurIPS 2023",
+      "venue_rank": "CCF-A",
+      "first_seen": "2026-01-26",
+      "keywords": ["Causal", "LLM", "benchmark", "reasoning"],
+      "citation_history": [
+        {"date": "2026-01-26", "count": 94}
+      ]
+    },
+    "2306.05836": {
+      "title": "Can Large Language Models Infer Causation from Correlation?",
+      "authors": ["Zhijing Jin", "Jiarui Liu", "Zhiheng Lyu", "Spencer Poff", "Mrinmaya Sachan", "Rada Mihalcea", "Mona Diab", "Bernhard Schölkopf"],
+      "arxiv_id": "2306.05836",
+      "url": "https://arxiv.org/abs/2306.05836",
+      "venue": "ICLR 2024",
+      "venue_rank": "CCF-A",
+      "first_seen": "2026-01-26",
+      "keywords": ["Causal", "LLM", "correlation", "inference"],
+      "citation_history": [
+        {"date": "2026-01-26", "count": 80}
+      ]
+    },
+    "2505.24710": {
+      "title": "Causal-aware Large Language Models: Enhancing Decision-Making Through Learning, Adapting and Acting",
+      "authors": ["Wei Chen", "Jiahao Zhang", "Haipeng Zhu", "Boyan Xu", "Zhifeng Hao", "Keli Zhang", "Junjian Ye", "Ruichu Cai"],
+      "arxiv_id": "2505.24710",
+      "url": "https://arxiv.org/abs/2505.24710",
+      "venue": "IJCAI 2025",
+      "venue_rank": "CCF-A",
+      "first_seen": "2026-01-26",
+      "keywords": ["Causal", "LLM", "decision-making", "SCM"],
+      "citation_history": [
+        {"date": "2026-01-26", "count": 3}
+      ]
+    },
     "2506.21215": {
       "title": "Unveiling Causal Reasoning in Large Language Models: Reality or Mirage?",
       "authors": ["Haoang Chi", "He Li", "Wenjing Yang", "Feng Liu", "Long Lan", "Xiaoguang Ren", "Tongliang Liu", "Bo Han"],
@@ -92,5 +131,5 @@
       ]
     }
   },
-  "last_updated": "2026-01-25"
+  "last_updated": "2026-01-26"
 }
