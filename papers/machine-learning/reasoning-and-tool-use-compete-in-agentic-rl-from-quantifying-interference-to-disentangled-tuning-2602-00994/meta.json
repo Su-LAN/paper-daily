@@ -1,0 +1,23 @@
+{
+  "arxiv_id": "2602.00994v1",
+  "abs_url": "http://arxiv.org/abs/2602.00994v1",
+  "pdf_url": "https://arxiv.org/pdf/2602.00994v1",
+  "title": "Reasoning and Tool-use Compete in Agentic RL:From Quantifying Interference to Disentangled Tuning",
+  "authors": [
+    "Yu Li",
+    "Mingyang Yi",
+    "Xiuyu Li",
+    "Ju Fan",
+    "Fuxin Jiang",
+    "Binbin Chen",
+    "Peng Li",
+    "Jie Song",
+    "Tieying Zhang"
+  ],
+  "categories": [
+    "cs.AI"
+  ],
+  "published": "2026-02-01T03:19:22+00:00",
+  "updated": "2026-02-01T03:19:22+00:00",
+  "domain": "machine-learning"
+}

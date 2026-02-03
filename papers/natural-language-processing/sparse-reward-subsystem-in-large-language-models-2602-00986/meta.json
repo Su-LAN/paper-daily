@@ -1,0 +1,17 @@
+{
+  "arxiv_id": "2602.00986v1",
+  "abs_url": "http://arxiv.org/abs/2602.00986v1",
+  "pdf_url": "https://arxiv.org/pdf/2602.00986v1",
+  "title": "Sparse Reward Subsystem in Large Language Models",
+  "authors": [
+    "Guowei Xu",
+    "Mert Yuksekgonul",
+    "James Zou"
+  ],
+  "categories": [
+    "cs.CL"
+  ],
+  "published": "2026-02-01T02:55:31+00:00",
+  "updated": "2026-02-01T02:55:31+00:00",
+  "domain": "natural-language-processing"
+}

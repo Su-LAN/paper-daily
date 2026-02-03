@@ -1,0 +1,23 @@
+{
+  "arxiv_id": "2602.00998v1",
+  "abs_url": "http://arxiv.org/abs/2602.00998v1",
+  "pdf_url": "https://arxiv.org/pdf/2602.00998v1",
+  "title": "Reliable Use of Lemmas via Eligibility Reasoning and Section$-$Aware Reinforcement Learning",
+  "authors": [
+    "Zhikun Xu",
+    "Xiaodong Yu",
+    "Ben Zhou",
+    "Jiang Liu",
+    "Jialian Wu",
+    "Ze Wang",
+    "Ximeng Sun",
+    "Hao Chen",
+    "Zicheng Liu"
+  ],
+  "categories": [
+    "cs.CL"
+  ],
+  "published": "2026-02-01T03:34:30+00:00",
+  "updated": "2026-02-01T03:34:30+00:00",
+  "domain": "natural-language-processing"
+}
