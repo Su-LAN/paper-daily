@@ -1,0 +1,19 @@
+{
+  "arxiv_id": "2602.06030v1",
+  "abs_url": "http://arxiv.org/abs/2602.06030v1",
+  "pdf_url": "https://arxiv.org/pdf/2602.06030v1",
+  "title": "PhysicsAgentABM: Physics-Guided Generative Agent-Based Modeling",
+  "authors": [
+    "Kavana Venkatesh",
+    "Yinhan He",
+    "Jundong Li",
+    "Jiaming Cui"
+  ],
+  "categories": [
+    "cs.MA",
+    "cs.LG"
+  ],
+  "published": "2026-02-05T18:59:01+00:00",
+  "updated": "2026-02-05T18:59:01+00:00",
+  "domain": "machine-learning"
+}
