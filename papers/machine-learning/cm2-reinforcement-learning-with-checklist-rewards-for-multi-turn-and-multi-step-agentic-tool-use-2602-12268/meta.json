@@ -1,0 +1,28 @@
+{
+  "arxiv_id": "2602.12268v1",
+  "abs_url": "http://arxiv.org/abs/2602.12268v1",
+  "pdf_url": "https://arxiv.org/pdf/2602.12268v1",
+  "title": "CM2: Reinforcement Learning with Checklist Rewards for Multi-Turn and Multi-Step Agentic Tool Use",
+  "authors": [
+    "Zhen Zhang",
+    "Kaiqiang Song",
+    "Xun Wang",
+    "Yebowen Hu",
+    "Weixiang Yan",
+    "Chenyang Zhao",
+    "Henry Peng Zou",
+    "Haoyun Deng",
+    "Sathish Reddy Indurthi",
+    "Shujian Liu",
+    "Simin Ma",
+    "Xiaoyang Wang",
+    "Xin Eric Wang",
+    "Song Wang"
+  ],
+  "categories": [
+    "cs.AI"
+  ],
+  "published": "2026-02-12T18:55:09+00:00",
+  "updated": "2026-02-12T18:55:09+00:00",
+  "domain": "machine-learning"
+}
