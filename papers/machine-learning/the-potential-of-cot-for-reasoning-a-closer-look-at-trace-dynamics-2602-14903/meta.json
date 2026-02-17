@@ -1,0 +1,18 @@
+{
+  "arxiv_id": "2602.14903v1",
+  "abs_url": "http://arxiv.org/abs/2602.14903v1",
+  "pdf_url": "https://arxiv.org/pdf/2602.14903v1",
+  "title": "The Potential of CoT for Reasoning: A Closer Look at Trace Dynamics",
+  "authors": [
+    "Gregor Bachmann",
+    "Yichen Jiang",
+    "Seyed Mohsen Moosavi Dezfooli",
+    "Moin Nabi"
+  ],
+  "categories": [
+    "cs.AI"
+  ],
+  "published": "2026-02-16T16:38:47+00:00",
+  "updated": "2026-02-16T16:38:47+00:00",
+  "domain": "machine-learning"
+}

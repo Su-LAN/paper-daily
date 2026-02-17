@@ -1,0 +1,23 @@
+{
+  "arxiv_id": "2602.14857v1",
+  "abs_url": "http://arxiv.org/abs/2602.14857v1",
+  "pdf_url": "https://arxiv.org/pdf/2602.14857v1",
+  "title": "World Models for Policy Refinement in StarCraft II",
+  "authors": [
+    "Yixin Zhang",
+    "Ziyi Wang",
+    "Yiming Rong",
+    "Haoxi Wang",
+    "Jinling Jiang",
+    "Shuang Xu",
+    "Haoran Wu",
+    "Shiyu Zhou",
+    "Bo Xu"
+  ],
+  "categories": [
+    "cs.AI"
+  ],
+  "published": "2026-02-16T15:51:59+00:00",
+  "updated": "2026-02-16T15:51:59+00:00",
+  "domain": "machine-learning"
+}
