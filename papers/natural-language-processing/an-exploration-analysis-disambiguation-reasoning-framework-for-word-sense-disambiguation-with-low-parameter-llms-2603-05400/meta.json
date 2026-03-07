@@ -1,0 +1,17 @@
+{
+  "arxiv_id": "2603.05400v1",
+  "abs_url": "http://arxiv.org/abs/2603.05400v1",
+  "pdf_url": "https://arxiv.org/pdf/2603.05400v1",
+  "title": "An Exploration-Analysis-Disambiguation Reasoning Framework for Word Sense Disambiguation with Low-Parameter LLMs",
+  "authors": [
+    "Deshan Sumanathilaka",
+    "Nicholas Micallef",
+    "Julian Hough"
+  ],
+  "categories": [
+    "cs.CL"
+  ],
+  "published": "2026-03-05T17:27:42+00:00",
+  "updated": "2026-03-05T17:27:42+00:00",
+  "domain": "natural-language-processing"
+}

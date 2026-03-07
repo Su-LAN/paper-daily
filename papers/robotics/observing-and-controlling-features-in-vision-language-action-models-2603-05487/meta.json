@@ -1,0 +1,18 @@
+{
+  "arxiv_id": "2603.05487v1",
+  "abs_url": "http://arxiv.org/abs/2603.05487v1",
+  "pdf_url": "https://arxiv.org/pdf/2603.05487v1",
+  "title": "Observing and Controlling Features in Vision-Language-Action Models",
+  "authors": [
+    "Hugo Buurmeijer",
+    "Carmen Amo Alonso",
+    "Aiden Swann",
+    "Marco Pavone"
+  ],
+  "categories": [
+    "cs.RO"
+  ],
+  "published": "2026-03-05T18:53:50+00:00",
+  "updated": "2026-03-05T18:53:50+00:00",
+  "domain": "robotics"
+}
