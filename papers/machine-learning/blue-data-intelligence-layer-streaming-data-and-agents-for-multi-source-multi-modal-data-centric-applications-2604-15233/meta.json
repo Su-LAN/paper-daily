@@ -1,0 +1,35 @@
+{
+  "arxiv_id": "2604.15233v1",
+  "abs_url": "http://arxiv.org/abs/2604.15233v1",
+  "pdf_url": "https://arxiv.org/pdf/2604.15233v1",
+  "title": "Blue Data Intelligence Layer: Streaming Data and Agents for Multi-source Multi-modal Data-Centric Applications",
+  "authors": [
+    "Moin Aminnaseri",
+    "Farima Fatahi Bayat",
+    "Nikita Bhutani",
+    "Jean-Flavien Bussotti",
+    "Kevin Chan",
+    "Rafael Li Chen",
+    "Yanlin Feng",
+    "Jackson Hassell",
+    "Estevam Hruschka",
+    "Eser Kandogan",
+    "Hannah Kim",
+    "James Levine",
+    "Seiji Maekawa",
+    "Jalal Mahmud",
+    "Kushan Mitra",
+    "Naoki Otani",
+    "Pouya Pezeshkpour",
+    "Nima Shahbazi",
+    "Chen Shen",
+    "Dan Zhang"
+  ],
+  "categories": [
+    "cs.AI",
+    "cs.DB"
+  ],
+  "published": "2026-04-16T17:10:21+00:00",
+  "updated": "2026-04-16T17:10:21+00:00",
+  "domain": "machine-learning"
+}

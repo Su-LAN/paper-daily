@@ -1,0 +1,23 @@
+{
+  "arxiv_id": "2604.15267v1",
+  "abs_url": "http://arxiv.org/abs/2604.15267v1",
+  "pdf_url": "https://arxiv.org/pdf/2604.15267v1",
+  "title": "CoopEval: Benchmarking Cooperation-Sustaining Mechanisms and LLM Agents in Social Dilemmas",
+  "authors": [
+    "Emanuel Tewolde",
+    "Xiao Zhang",
+    "David Guzman Piedrahita",
+    "Vincent Conitzer",
+    "Zhijing Jin"
+  ],
+  "categories": [
+    "cs.GT",
+    "cs.AI",
+    "cs.CL",
+    "cs.CY",
+    "cs.MA"
+  ],
+  "published": "2026-04-16T17:40:30+00:00",
+  "updated": "2026-04-16T17:40:30+00:00",
+  "domain": "machine-learning"
+}
