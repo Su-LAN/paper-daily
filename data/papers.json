@@ -10,7 +10,8 @@
       "first_seen": "2026-01-26",
       "keywords": ["Causal", "LLM", "benchmark", "reasoning"],
       "citation_history": [
-        {"date": "2026-01-26", "count": 94}
+        {"date": "2026-01-26", "count": 94},
+        {"date": "2026-06-02", "count": 158}
       ]
     },
     "2306.05836": {
@@ -23,7 +24,8 @@
       "first_seen": "2026-01-26",
       "keywords": ["Causal", "LLM", "correlation", "inference"],
       "citation_history": [
-        {"date": "2026-01-26", "count": 80}
+        {"date": "2026-01-26", "count": 80},
+        {"date": "2026-06-02", "count": 198}
       ]
     },
     "2505.24710": {
@@ -36,7 +38,8 @@
       "first_seen": "2026-01-26",
       "keywords": ["Causal", "LLM", "decision-making", "SCM"],
       "citation_history": [
-        {"date": "2026-01-26", "count": 3}
+        {"date": "2026-01-26", "count": 3},
+        {"date": "2026-06-02", "count": 4}
       ]
     },
     "2506.21215": {
@@ -49,7 +52,8 @@
       "first_seen": "2026-01-25",
       "keywords": ["Causal", "LLM", "reasoning"],
       "citation_history": [
-        {"date": "2026-01-25", "count": 54}
+        {"date": "2026-01-25", "count": 54},
+        {"date": "2026-06-02", "count": 86}
       ]
     },
     "2403.09606": {
@@ -62,7 +66,8 @@
       "first_seen": "2026-01-25",
       "keywords": ["Causal", "LLM", "survey"],
       "citation_history": [
-        {"date": "2026-01-25", "count": 28}
+        {"date": "2026-01-25", "count": 28},
+        {"date": "2026-06-02", "count": 31}
       ]
     },
     "2409.09822": {
@@ -75,7 +80,8 @@
       "first_seen": "2026-01-25",
       "keywords": ["Causal", "LLM", "inference"],
       "citation_history": [
-        {"date": "2026-01-25", "count": 23}
+        {"date": "2026-01-25", "count": 23},
+        {"date": "2026-06-02", "count": 40}
       ]
     },
     "2402.11068": {
@@ -88,7 +94,8 @@
       "first_seen": "2026-01-25",
       "keywords": ["Causal", "LLM", "discovery"],
       "citation_history": [
-        {"date": "2026-01-25", "count": 14}
+        {"date": "2026-01-25", "count": 14},
+        {"date": "2026-06-02", "count": 24}
       ]
     },
     "2410.23884": {
@@ -101,7 +108,8 @@
       "first_seen": "2026-01-25",
       "keywords": ["Causal", "LLM", "failure modes"],
       "citation_history": [
-        {"date": "2026-01-25", "count": 8}
+        {"date": "2026-01-25", "count": 8},
+        {"date": "2026-06-02", "count": 12}
       ]
     },
     "2410.06392": {
@@ -114,7 +122,8 @@
       "first_seen": "2026-01-25",
       "keywords": ["Causal", "LLM", "counterfactual"],
       "citation_history": [
-        {"date": "2026-01-25", "count": 7}
+        {"date": "2026-01-25", "count": 7},
+        {"date": "2026-06-02", "count": 10}
       ]
     },
     "2508.04495": {
@@ -127,9 +136,10 @@
       "first_seen": "2026-01-25",
       "keywords": ["Causal", "LLM", "reflection"],
       "citation_history": [
-        {"date": "2026-01-25", "count": 1}
+        {"date": "2026-01-25", "count": 1},
+        {"date": "2026-06-02", "count": 2}
       ]
     }
   },
-  "last_updated": "2026-01-26"
+  "last_updated": "2026-06-02"
 }
