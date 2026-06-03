@@ -139,7 +139,46 @@
         {"date": "2026-01-25", "count": 1},
         {"date": "2026-06-02", "count": 2}
       ]
+    },
+    "2509.23863": {
+      "title": "SPELL: Self-Play Reinforcement Learning for Evolving Long-Context Language Models",
+      "authors": ["Ziyi Yang", "Weizhou Shen", "Chenliang Li", "Ruijun Chen", "Fanqi Wan", "Ming Yan", "Xiaojun Quan", "Fei Huang"],
+      "arxiv_id": "2509.23863",
+      "url": "https://arxiv.org/abs/2509.23863",
+      "venue": "ICLR 2026",
+      "venue_rank": "CCF-A",
+      "first_seen": "2026-06-03",
+      "keywords": ["LLM", "reasoning", "self-play", "RL", "long-context"],
+      "citation_history": [
+        {"date": "2026-06-03", "count": null}
+      ]
+    },
+    "2509.13237": {
+      "title": "Metacognitive Reuse: Turning Recurring LLM Reasoning Into Concise Behaviors",
+      "authors": ["Aniket Didolkar", "Nicolas Ballas", "Sanjeev Arora", "Anirudh Goyal"],
+      "arxiv_id": "2509.13237",
+      "url": "https://arxiv.org/abs/2509.13237",
+      "venue": "arXiv",
+      "venue_rank": "preprint",
+      "first_seen": "2026-06-03",
+      "keywords": ["LLM", "reasoning", "metacognition", "efficiency", "self-improvement"],
+      "citation_history": [
+        {"date": "2026-06-03", "count": 22}
+      ]
+    },
+    "2505.17813": {
+      "title": "Don't Overthink it. Preferring Shorter Thinking Chains for Improved LLM Reasoning",
+      "authors": ["Michael Hassid", "Gabriel Synnaeve", "Yossi Adi", "Roy Schwartz"],
+      "arxiv_id": "2505.17813",
+      "url": "https://arxiv.org/abs/2505.17813",
+      "venue": "arXiv",
+      "venue_rank": "preprint",
+      "first_seen": "2026-06-03",
+      "keywords": ["LLM", "reasoning", "chain-of-thought", "test-time compute", "decoding"],
+      "citation_history": [
+        {"date": "2026-06-03", "count": 61}
+      ]
     }
   },
-  "last_updated": "2026-06-02"
+  "last_updated": "2026-06-03"
 }
