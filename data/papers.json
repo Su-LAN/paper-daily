@@ -12,7 +12,8 @@
       "citation_history": [
         {"date": "2026-01-26", "count": 94},
         {"date": "2026-06-02", "count": 158},
-        {"date": "2026-06-03", "count": 158}
+        {"date": "2026-06-03", "count": 158},
+        {"date": "2026-06-04", "count": 158}
       ]
     },
     "2306.05836": {
@@ -27,7 +28,8 @@
       "citation_history": [
         {"date": "2026-01-26", "count": 80},
         {"date": "2026-06-02", "count": 198},
-        {"date": "2026-06-03", "count": 198}
+        {"date": "2026-06-03", "count": 198},
+        {"date": "2026-06-04", "count": 198}
       ]
     },
     "2505.24710": {
@@ -42,7 +44,8 @@
       "citation_history": [
         {"date": "2026-01-26", "count": 3},
         {"date": "2026-06-02", "count": 4},
-        {"date": "2026-06-03", "count": 4}
+        {"date": "2026-06-03", "count": 4},
+        {"date": "2026-06-04", "count": 4}
       ]
     },
     "2506.21215": {
@@ -57,7 +60,8 @@
       "citation_history": [
         {"date": "2026-01-25", "count": 54},
         {"date": "2026-06-02", "count": 86},
-        {"date": "2026-06-03", "count": 86}
+        {"date": "2026-06-03", "count": 86},
+        {"date": "2026-06-04", "count": 86}
       ]
     },
     "2403.09606": {
@@ -72,7 +76,8 @@
       "citation_history": [
         {"date": "2026-01-25", "count": 28},
         {"date": "2026-06-02", "count": 31},
-        {"date": "2026-06-03", "count": 31}
+        {"date": "2026-06-03", "count": 31},
+        {"date": "2026-06-04", "count": 31}
       ]
     },
     "2409.09822": {
@@ -87,7 +92,8 @@
       "citation_history": [
         {"date": "2026-01-25", "count": 23},
         {"date": "2026-06-02", "count": 40},
-        {"date": "2026-06-03", "count": 40}
+        {"date": "2026-06-03", "count": 40},
+        {"date": "2026-06-04", "count": 40}
       ]
     },
     "2402.11068": {
@@ -102,7 +108,8 @@
       "citation_history": [
         {"date": "2026-01-25", "count": 14},
         {"date": "2026-06-02", "count": 24},
-        {"date": "2026-06-03", "count": 24}
+        {"date": "2026-06-03", "count": 24},
+        {"date": "2026-06-04", "count": 24}
       ]
     },
     "2410.23884": {
@@ -117,7 +124,8 @@
       "citation_history": [
         {"date": "2026-01-25", "count": 8},
         {"date": "2026-06-02", "count": 12},
-        {"date": "2026-06-03", "count": 12}
+        {"date": "2026-06-03", "count": 12},
+        {"date": "2026-06-04", "count": 12}
       ]
     },
     "2410.06392": {
@@ -132,7 +140,8 @@
       "citation_history": [
         {"date": "2026-01-25", "count": 7},
         {"date": "2026-06-02", "count": 10},
-        {"date": "2026-06-03", "count": 10}
+        {"date": "2026-06-03", "count": 10},
+        {"date": "2026-06-04", "count": 10}
       ]
     },
     "2508.04495": {
@@ -147,7 +156,8 @@
       "citation_history": [
         {"date": "2026-01-25", "count": 1},
         {"date": "2026-06-02", "count": 2},
-        {"date": "2026-06-03", "count": 2}
+        {"date": "2026-06-03", "count": 2},
+        {"date": "2026-06-04", "count": 2}
       ]
     },
     "2509.23863": {
@@ -160,7 +170,8 @@
       "first_seen": "2026-06-03",
       "keywords": ["LLM", "reasoning", "self-play", "RL", "long-context"],
       "citation_history": [
-        {"date": "2026-06-03", "count": 20}
+        {"date": "2026-06-03", "count": 20},
+        {"date": "2026-06-04", "count": 20}
       ]
     },
     "2509.13237": {
@@ -173,7 +184,8 @@
       "first_seen": "2026-06-03",
       "keywords": ["LLM", "reasoning", "metacognition", "efficiency", "self-improvement"],
       "citation_history": [
-        {"date": "2026-06-03", "count": 21}
+        {"date": "2026-06-03", "count": 21},
+        {"date": "2026-06-04", "count": 22}
       ]
     },
     "2505.17813": {
@@ -186,7 +198,8 @@
       "first_seen": "2026-06-03",
       "keywords": ["LLM", "reasoning", "chain-of-thought", "test-time compute", "decoding"],
       "citation_history": [
-        {"date": "2026-06-03", "count": 62}
+        {"date": "2026-06-03", "count": 62},
+        {"date": "2026-06-04", "count": 62}
       ]
     },
     "2508.01191": {
