@@ -188,7 +188,46 @@
       "citation_history": [
         {"date": "2026-06-03", "count": 62}
       ]
+    },
+    "2508.01191": {
+      "title": "Is Chain-of-Thought Reasoning of LLMs a Mirage? A Data Distribution Lens",
+      "authors": ["Chengshuai Zhao", "Zhen Tan", "Pingchuan Ma", "Dawei Li", "Bohan Jiang", "Yancheng Wang", "Yingzhen Yang", "Huan Liu"],
+      "arxiv_id": "2508.01191",
+      "url": "https://arxiv.org/abs/2508.01191",
+      "venue": "ACL 2026",
+      "venue_rank": "CCF-A",
+      "first_seen": "2026-06-04",
+      "keywords": ["LLM", "reasoning", "chain-of-thought", "data distribution", "OOD generalization"],
+      "citation_history": [
+        {"date": "2026-06-04", "count": 61}
+      ]
+    },
+    "2506.19143": {
+      "title": "Thought Anchors: Which LLM Reasoning Steps Matter?",
+      "authors": ["Paul C. Bogdan", "Uzay Macar", "Neel Nanda", "Arthur Conmy"],
+      "arxiv_id": "2506.19143",
+      "url": "https://arxiv.org/abs/2506.19143",
+      "venue": "ICLR 2026 (under review)",
+      "venue_rank": "CCF-A",
+      "first_seen": "2026-06-04",
+      "keywords": ["LLM", "reasoning", "interpretability", "chain-of-thought", "attention heads"],
+      "citation_history": [
+        {"date": "2026-06-04", "count": 98}
+      ]
+    },
+    "2604.15726": {
+      "title": "LLM Reasoning Is Latent, Not the Chain of Thought",
+      "authors": ["Wenshuo Wang"],
+      "arxiv_id": "2604.15726",
+      "url": "https://arxiv.org/abs/2604.15726",
+      "venue": "arXiv",
+      "venue_rank": "preprint",
+      "first_seen": "2026-06-04",
+      "keywords": ["LLM", "reasoning", "latent state", "chain-of-thought", "position paper"],
+      "citation_history": [
+        {"date": "2026-06-04", "count": 0}
+      ]
     }
   },
-  "last_updated": "2026-06-03"
+  "last_updated": "2026-06-04"
 }
