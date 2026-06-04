@@ -1,0 +1,20 @@
+{
+  "arxiv_id": "2602.12259v1",
+  "abs_url": "http://arxiv.org/abs/2602.12259v1",
+  "pdf_url": "https://arxiv.org/pdf/2602.12259v1",
+  "title": "Think like a Scientist: Physics-guided LLM Agent for Equation Discovery",
+  "authors": [
+    "Jianke Yang",
+    "Ohm Venkatachalam",
+    "Mohammad Kianezhad",
+    "Sharvaree Vadgama",
+    "Rose Yu"
+  ],
+  "categories": [
+    "cs.AI",
+    "cs.LG"
+  ],
+  "published": "2026-02-12T18:49:27+00:00",
+  "updated": "2026-02-12T18:49:27+00:00",
+  "domain": "machine-learning"
+}

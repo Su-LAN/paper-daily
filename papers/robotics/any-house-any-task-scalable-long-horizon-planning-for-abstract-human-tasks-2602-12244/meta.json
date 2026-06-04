@@ -1,0 +1,19 @@
+{
+  "arxiv_id": "2602.12244v1",
+  "abs_url": "http://arxiv.org/abs/2602.12244v1",
+  "pdf_url": "https://arxiv.org/pdf/2602.12244v1",
+  "title": "Any House Any Task: Scalable Long-Horizon Planning for Abstract Human Tasks",
+  "authors": [
+    "Zhihong Liu",
+    "Yang Li",
+    "Rengming Huang",
+    "Cewu Lu",
+    "Panpan Cai"
+  ],
+  "categories": [
+    "cs.RO"
+  ],
+  "published": "2026-02-12T18:28:28+00:00",
+  "updated": "2026-02-12T18:28:28+00:00",
+  "domain": "robotics"
+}
