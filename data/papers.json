@@ -240,7 +240,46 @@
       "citation_history": [
         {"date": "2026-06-04", "count": 0}
       ]
+    },
+    "2605.06241": {
+      "title": "Rethinking RL for LLM Reasoning: It's Sparse Policy Selection, Not Capability Learning",
+      "authors": ["Omer Akgul", "Rajgopal Kannan", "Willie Neiswanger", "Viktor K. Prasanna"],
+      "arxiv_id": "2605.06241",
+      "url": "https://arxiv.org/abs/2605.06241",
+      "venue": "arXiv",
+      "venue_rank": "preprint",
+      "first_seen": "2026-06-05",
+      "keywords": ["LLM", "reasoning", "RL", "sparse policy selection", "ReasonMaxxer"],
+      "citation_history": [
+        {"date": "2026-06-05", "count": 0}
+      ]
+    },
+    "2606.01168": {
+      "title": "Thinking Economically: A Hierarchical Framework for Adaptive-Complexity Reasoning in LLMs",
+      "authors": ["Yubo Gao", "Haotian Wu", "Hong Chen", "Jun Huang", "Yibo Yan", "Jungang Li", "Zihao Dongfang", "Sicheng Tao", "Puay Siew Tan", "Jie M. Zhang", "Xuming Hu"],
+      "arxiv_id": "2606.01168",
+      "url": "https://arxiv.org/abs/2606.01168",
+      "venue": "arXiv",
+      "venue_rank": "preprint",
+      "first_seen": "2026-06-05",
+      "keywords": ["LLM", "reasoning", "efficient reasoning", "CoT", "adaptive budget", "HAB"],
+      "citation_history": [
+        {"date": "2026-06-05", "count": 0}
+      ]
+    },
+    "2605.11453": {
+      "title": "Predictive Maps of Multi-Agent Reasoning: A Successor-Representation Spectrum for LLM Communication Topologies",
+      "authors": ["E. Parks", "Dalal Alharthi"],
+      "arxiv_id": "2605.11453",
+      "url": "https://arxiv.org/abs/2605.11453",
+      "venue": "arXiv",
+      "venue_rank": "preprint",
+      "first_seen": "2026-06-05",
+      "keywords": ["LLM", "multi-agent", "reasoning", "successor representation", "communication topology"],
+      "citation_history": [
+        {"date": "2026-06-05", "count": 0}
+      ]
     }
   },
-  "last_updated": "2026-06-04"
+  "last_updated": "2026-06-05"
 }
