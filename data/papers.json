@@ -2,284 +2,744 @@
   "papers": {
     "2312.04350": {
       "title": "CLadder: Assessing Causal Reasoning in Language Models",
-      "authors": ["Zhijing Jin", "Yuen Chen", "Felix Leeb", "Luigi Gresele", "Ojasv Kamal", "Zhiheng Lyu", "Kevin Blin", "Fernando Gonzalez Adauto", "Max Kleiman-Weiner", "Mrinmaya Sachan", "Bernhard Schölkopf"],
+      "authors": [
+        "Zhijing Jin",
+        "Yuen Chen",
+        "Felix Leeb",
+        "Luigi Gresele",
+        "Ojasv Kamal",
+        "Zhiheng Lyu",
+        "Kevin Blin",
+        "Fernando Gonzalez Adauto",
+        "Max Kleiman-Weiner",
+        "Mrinmaya Sachan",
+        "Bernhard Schölkopf"
+      ],
       "arxiv_id": "2312.04350",
       "url": "https://arxiv.org/abs/2312.04350",
       "venue": "NeurIPS 2023",
       "venue_rank": "CCF-A",
       "first_seen": "2026-01-26",
-      "keywords": ["Causal", "LLM", "benchmark", "reasoning"],
+      "keywords": [
+        "Causal",
+        "LLM",
+        "benchmark",
+        "reasoning"
+      ],
       "citation_history": [
-        {"date": "2026-01-26", "count": 94},
-        {"date": "2026-06-02", "count": 158},
-        {"date": "2026-06-03", "count": 158},
-        {"date": "2026-06-04", "count": 158}
+        {
+          "date": "2026-01-26",
+          "count": 94
+        },
+        {
+          "date": "2026-06-02",
+          "count": 158
+        },
+        {
+          "date": "2026-06-03",
+          "count": 158
+        },
+        {
+          "date": "2026-06-04",
+          "count": 158
+        },
+        {
+          "date": "2026-06-07",
+          "count": 158
+        }
       ]
     },
     "2306.05836": {
       "title": "Can Large Language Models Infer Causation from Correlation?",
-      "authors": ["Zhijing Jin", "Jiarui Liu", "Zhiheng Lyu", "Spencer Poff", "Mrinmaya Sachan", "Rada Mihalcea", "Mona Diab", "Bernhard Schölkopf"],
+      "authors": [
+        "Zhijing Jin",
+        "Jiarui Liu",
+        "Zhiheng Lyu",
+        "Spencer Poff",
+        "Mrinmaya Sachan",
+        "Rada Mihalcea",
+        "Mona Diab",
+        "Bernhard Schölkopf"
+      ],
       "arxiv_id": "2306.05836",
       "url": "https://arxiv.org/abs/2306.05836",
       "venue": "ICLR 2024",
       "venue_rank": "CCF-A",
       "first_seen": "2026-01-26",
-      "keywords": ["Causal", "LLM", "correlation", "inference"],
+      "keywords": [
+        "Causal",
+        "LLM",
+        "correlation",
+        "inference"
+      ],
       "citation_history": [
-        {"date": "2026-01-26", "count": 80},
-        {"date": "2026-06-02", "count": 198},
-        {"date": "2026-06-03", "count": 198},
-        {"date": "2026-06-04", "count": 198}
+        {
+          "date": "2026-01-26",
+          "count": 80
+        },
+        {
+          "date": "2026-06-02",
+          "count": 198
+        },
+        {
+          "date": "2026-06-03",
+          "count": 198
+        },
+        {
+          "date": "2026-06-04",
+          "count": 198
+        },
+        {
+          "date": "2026-06-07",
+          "count": 198
+        }
       ]
     },
     "2505.24710": {
       "title": "Causal-aware Large Language Models: Enhancing Decision-Making Through Learning, Adapting and Acting",
-      "authors": ["Wei Chen", "Jiahao Zhang", "Haipeng Zhu", "Boyan Xu", "Zhifeng Hao", "Keli Zhang", "Junjian Ye", "Ruichu Cai"],
+      "authors": [
+        "Wei Chen",
+        "Jiahao Zhang",
+        "Haipeng Zhu",
+        "Boyan Xu",
+        "Zhifeng Hao",
+        "Keli Zhang",
+        "Junjian Ye",
+        "Ruichu Cai"
+      ],
       "arxiv_id": "2505.24710",
       "url": "https://arxiv.org/abs/2505.24710",
       "venue": "IJCAI 2025",
       "venue_rank": "CCF-A",
       "first_seen": "2026-01-26",
-      "keywords": ["Causal", "LLM", "decision-making", "SCM"],
+      "keywords": [
+        "Causal",
+        "LLM",
+        "decision-making",
+        "SCM"
+      ],
       "citation_history": [
-        {"date": "2026-01-26", "count": 3},
-        {"date": "2026-06-02", "count": 4},
-        {"date": "2026-06-03", "count": 4},
-        {"date": "2026-06-04", "count": 4}
+        {
+          "date": "2026-01-26",
+          "count": 3
+        },
+        {
+          "date": "2026-06-02",
+          "count": 4
+        },
+        {
+          "date": "2026-06-03",
+          "count": 4
+        },
+        {
+          "date": "2026-06-04",
+          "count": 4
+        },
+        {
+          "date": "2026-06-07",
+          "count": 4
+        }
       ]
     },
     "2506.21215": {
       "title": "Unveiling Causal Reasoning in Large Language Models: Reality or Mirage?",
-      "authors": ["Haoang Chi", "He Li", "Wenjing Yang", "Feng Liu", "Long Lan", "Xiaoguang Ren", "Tongliang Liu", "Bo Han"],
+      "authors": [
+        "Haoang Chi",
+        "He Li",
+        "Wenjing Yang",
+        "Feng Liu",
+        "Long Lan",
+        "Xiaoguang Ren",
+        "Tongliang Liu",
+        "Bo Han"
+      ],
       "arxiv_id": "2506.21215",
       "url": "https://arxiv.org/abs/2506.21215",
       "venue": "NeurIPS 2025",
       "venue_rank": "CCF-A",
       "first_seen": "2026-01-25",
-      "keywords": ["Causal", "LLM", "reasoning"],
+      "keywords": [
+        "Causal",
+        "LLM",
+        "reasoning"
+      ],
       "citation_history": [
-        {"date": "2026-01-25", "count": 54},
-        {"date": "2026-06-02", "count": 86},
-        {"date": "2026-06-03", "count": 86},
-        {"date": "2026-06-04", "count": 86}
+        {
+          "date": "2026-01-25",
+          "count": 54
+        },
+        {
+          "date": "2026-06-02",
+          "count": 86
+        },
+        {
+          "date": "2026-06-03",
+          "count": 86
+        },
+        {
+          "date": "2026-06-04",
+          "count": 86
+        },
+        {
+          "date": "2026-06-07",
+          "count": 87
+        }
       ]
     },
     "2403.09606": {
       "title": "Large Language Models and Causal Inference in Collaboration: A Survey",
-      "authors": ["Xiaoyu Liu", "Paiheng Xu", "Junda Wu", "Jiaxin Yuan", "Yifan Yang", "Yuhang Zhou", "Fuxiao Liu", "Tianrui Guan", "Haoliang Wang", "Tong Yu", "Julian J. McAuley", "Wei Ai", "Furong Huang"],
+      "authors": [
+        "Xiaoyu Liu",
+        "Paiheng Xu",
+        "Junda Wu",
+        "Jiaxin Yuan",
+        "Yifan Yang",
+        "Yuhang Zhou",
+        "Fuxiao Liu",
+        "Tianrui Guan",
+        "Haoliang Wang",
+        "Tong Yu",
+        "Julian J. McAuley",
+        "Wei Ai",
+        "Furong Huang"
+      ],
       "arxiv_id": "2403.09606",
       "url": "https://arxiv.org/abs/2403.09606",
       "venue": "arXiv",
       "venue_rank": "Survey",
       "first_seen": "2026-01-25",
-      "keywords": ["Causal", "LLM", "survey"],
+      "keywords": [
+        "Causal",
+        "LLM",
+        "survey"
+      ],
       "citation_history": [
-        {"date": "2026-01-25", "count": 28},
-        {"date": "2026-06-02", "count": 31},
-        {"date": "2026-06-03", "count": 31},
-        {"date": "2026-06-04", "count": 31}
+        {
+          "date": "2026-01-25",
+          "count": 28
+        },
+        {
+          "date": "2026-06-02",
+          "count": 31
+        },
+        {
+          "date": "2026-06-03",
+          "count": 31
+        },
+        {
+          "date": "2026-06-04",
+          "count": 31
+        },
+        {
+          "date": "2026-06-07",
+          "count": 31
+        }
       ]
     },
     "2409.09822": {
       "title": "Causal Inference with Large Language Model: A Survey",
-      "authors": ["Jing Ma"],
+      "authors": [
+        "Jing Ma"
+      ],
       "arxiv_id": "2409.09822",
       "url": "https://arxiv.org/abs/2409.09822",
       "venue": "NAACL",
       "venue_rank": "CCF-A",
       "first_seen": "2026-01-25",
-      "keywords": ["Causal", "LLM", "inference"],
+      "keywords": [
+        "Causal",
+        "LLM",
+        "inference"
+      ],
       "citation_history": [
-        {"date": "2026-01-25", "count": 23},
-        {"date": "2026-06-02", "count": 40},
-        {"date": "2026-06-03", "count": 40},
-        {"date": "2026-06-04", "count": 40}
+        {
+          "date": "2026-01-25",
+          "count": 23
+        },
+        {
+          "date": "2026-06-02",
+          "count": 40
+        },
+        {
+          "date": "2026-06-03",
+          "count": 40
+        },
+        {
+          "date": "2026-06-04",
+          "count": 40
+        },
+        {
+          "date": "2026-06-07",
+          "count": 41
+        }
       ]
     },
     "2402.11068": {
       "title": "Large Language Models for Causal Discovery: Current Landscape and Future Directions",
-      "authors": ["Guangya Wan", "Yunsheng Lu", "Yuqi Wu", "Mengxuan Hu", "Sheng Li"],
+      "authors": [
+        "Guangya Wan",
+        "Yunsheng Lu",
+        "Yuqi Wu",
+        "Mengxuan Hu",
+        "Sheng Li"
+      ],
       "arxiv_id": "2402.11068",
       "url": "https://arxiv.org/abs/2402.11068",
       "venue": "IJCAI 2024",
       "venue_rank": "CCF-A",
       "first_seen": "2026-01-25",
-      "keywords": ["Causal", "LLM", "discovery"],
+      "keywords": [
+        "Causal",
+        "LLM",
+        "discovery"
+      ],
       "citation_history": [
-        {"date": "2026-01-25", "count": 14},
-        {"date": "2026-06-02", "count": 24},
-        {"date": "2026-06-03", "count": 24},
-        {"date": "2026-06-04", "count": 24}
+        {
+          "date": "2026-01-25",
+          "count": 14
+        },
+        {
+          "date": "2026-06-02",
+          "count": 24
+        },
+        {
+          "date": "2026-06-03",
+          "count": 24
+        },
+        {
+          "date": "2026-06-04",
+          "count": 24
+        },
+        {
+          "date": "2026-06-07",
+          "count": 24
+        }
       ]
     },
     "2410.23884": {
       "title": "Failure Modes of LLMs for Causal Reasoning on Narratives",
-      "authors": ["Khurram Yamin", "Shantanu Gupta", "Gaurav R. Ghosal", "Zachary Chase Lipton", "Bryan Wilder"],
+      "authors": [
+        "Khurram Yamin",
+        "Shantanu Gupta",
+        "Gaurav R. Ghosal",
+        "Zachary Chase Lipton",
+        "Bryan Wilder"
+      ],
       "arxiv_id": "2410.23884",
       "url": "https://arxiv.org/abs/2410.23884",
       "venue": "arXiv",
       "venue_rank": "preprint",
       "first_seen": "2026-01-25",
-      "keywords": ["Causal", "LLM", "failure modes"],
+      "keywords": [
+        "Causal",
+        "LLM",
+        "failure modes"
+      ],
       "citation_history": [
-        {"date": "2026-01-25", "count": 8},
-        {"date": "2026-06-02", "count": 12},
-        {"date": "2026-06-03", "count": 12},
-        {"date": "2026-06-04", "count": 12}
+        {
+          "date": "2026-01-25",
+          "count": 8
+        },
+        {
+          "date": "2026-06-02",
+          "count": 12
+        },
+        {
+          "date": "2026-06-03",
+          "count": 12
+        },
+        {
+          "date": "2026-06-04",
+          "count": 12
+        },
+        {
+          "date": "2026-06-07",
+          "count": 12
+        }
       ]
     },
     "2410.06392": {
       "title": "Counterfactual Causal Inference in Natural Language with Large Language Models",
-      "authors": ["Gaël Gendron", "Jovze M. Rovzanec", "Michael Witbrock", "Gillian Dobbie"],
+      "authors": [
+        "Gaël Gendron",
+        "Jovze M. Rovzanec",
+        "Michael Witbrock",
+        "Gillian Dobbie"
+      ],
       "arxiv_id": "2410.06392",
       "url": "https://arxiv.org/abs/2410.06392",
       "venue": "arXiv",
       "venue_rank": "preprint",
       "first_seen": "2026-01-25",
-      "keywords": ["Causal", "LLM", "counterfactual"],
+      "keywords": [
+        "Causal",
+        "LLM",
+        "counterfactual"
+      ],
       "citation_history": [
-        {"date": "2026-01-25", "count": 7},
-        {"date": "2026-06-02", "count": 10},
-        {"date": "2026-06-03", "count": 10},
-        {"date": "2026-06-04", "count": 10}
+        {
+          "date": "2026-01-25",
+          "count": 7
+        },
+        {
+          "date": "2026-06-02",
+          "count": 10
+        },
+        {
+          "date": "2026-06-03",
+          "count": 10
+        },
+        {
+          "date": "2026-06-04",
+          "count": 10
+        },
+        {
+          "date": "2026-06-07",
+          "count": 10
+        }
       ]
     },
     "2508.04495": {
       "title": "Causal Reflection with Language Models",
-      "authors": ["Abi Aryan", "Zac Liu"],
+      "authors": [
+        "Abi Aryan",
+        "Zac Liu"
+      ],
       "arxiv_id": "2508.04495",
       "url": "https://arxiv.org/abs/2508.04495",
       "venue": "arXiv",
       "venue_rank": "preprint",
       "first_seen": "2026-01-25",
-      "keywords": ["Causal", "LLM", "reflection"],
+      "keywords": [
+        "Causal",
+        "LLM",
+        "reflection"
+      ],
       "citation_history": [
-        {"date": "2026-01-25", "count": 1},
-        {"date": "2026-06-02", "count": 2},
-        {"date": "2026-06-03", "count": 2},
-        {"date": "2026-06-04", "count": 2}
+        {
+          "date": "2026-01-25",
+          "count": 1
+        },
+        {
+          "date": "2026-06-02",
+          "count": 2
+        },
+        {
+          "date": "2026-06-03",
+          "count": 2
+        },
+        {
+          "date": "2026-06-04",
+          "count": 2
+        },
+        {
+          "date": "2026-06-07",
+          "count": 2
+        }
       ]
     },
     "2509.23863": {
       "title": "SPELL: Self-Play Reinforcement Learning for Evolving Long-Context Language Models",
-      "authors": ["Ziyi Yang", "Weizhou Shen", "Chenliang Li", "Ruijun Chen", "Fanqi Wan", "Ming Yan", "Xiaojun Quan", "Fei Huang"],
+      "authors": [
+        "Ziyi Yang",
+        "Weizhou Shen",
+        "Chenliang Li",
+        "Ruijun Chen",
+        "Fanqi Wan",
+        "Ming Yan",
+        "Xiaojun Quan",
+        "Fei Huang"
+      ],
       "arxiv_id": "2509.23863",
       "url": "https://arxiv.org/abs/2509.23863",
       "venue": "ICLR 2026",
       "venue_rank": "CCF-A",
       "first_seen": "2026-06-03",
-      "keywords": ["LLM", "reasoning", "self-play", "RL", "long-context"],
+      "keywords": [
+        "LLM",
+        "reasoning",
+        "self-play",
+        "RL",
+        "long-context"
+      ],
       "citation_history": [
-        {"date": "2026-06-03", "count": 20},
-        {"date": "2026-06-04", "count": 20}
+        {
+          "date": "2026-06-03",
+          "count": 20
+        },
+        {
+          "date": "2026-06-04",
+          "count": 20
+        },
+        {
+          "date": "2026-06-07",
+          "count": 20
+        }
       ]
     },
     "2509.13237": {
       "title": "Metacognitive Reuse: Turning Recurring LLM Reasoning Into Concise Behaviors",
-      "authors": ["Aniket Didolkar", "Nicolas Ballas", "Sanjeev Arora", "Anirudh Goyal"],
+      "authors": [
+        "Aniket Didolkar",
+        "Nicolas Ballas",
+        "Sanjeev Arora",
+        "Anirudh Goyal"
+      ],
       "arxiv_id": "2509.13237",
       "url": "https://arxiv.org/abs/2509.13237",
       "venue": "arXiv",
       "venue_rank": "preprint",
       "first_seen": "2026-06-03",
-      "keywords": ["LLM", "reasoning", "metacognition", "efficiency", "self-improvement"],
+      "keywords": [
+        "LLM",
+        "reasoning",
+        "metacognition",
+        "efficiency",
+        "self-improvement"
+      ],
       "citation_history": [
-        {"date": "2026-06-03", "count": 21},
-        {"date": "2026-06-04", "count": 22}
+        {
+          "date": "2026-06-03",
+          "count": 21
+        },
+        {
+          "date": "2026-06-04",
+          "count": 22
+        },
+        {
+          "date": "2026-06-07",
+          "count": 22
+        }
       ]
     },
     "2505.17813": {
       "title": "Don't Overthink it. Preferring Shorter Thinking Chains for Improved LLM Reasoning",
-      "authors": ["Michael Hassid", "Gabriel Synnaeve", "Yossi Adi", "Roy Schwartz"],
+      "authors": [
+        "Michael Hassid",
+        "Gabriel Synnaeve",
+        "Yossi Adi",
+        "Roy Schwartz"
+      ],
       "arxiv_id": "2505.17813",
       "url": "https://arxiv.org/abs/2505.17813",
       "venue": "arXiv",
       "venue_rank": "preprint",
       "first_seen": "2026-06-03",
-      "keywords": ["LLM", "reasoning", "chain-of-thought", "test-time compute", "decoding"],
+      "keywords": [
+        "LLM",
+        "reasoning",
+        "chain-of-thought",
+        "test-time compute",
+        "decoding"
+      ],
       "citation_history": [
-        {"date": "2026-06-03", "count": 62},
-        {"date": "2026-06-04", "count": 62}
+        {
+          "date": "2026-06-03",
+          "count": 62
+        },
+        {
+          "date": "2026-06-04",
+          "count": 62
+        },
+        {
+          "date": "2026-06-07",
+          "count": 62
+        }
       ]
     },
     "2508.01191": {
       "title": "Is Chain-of-Thought Reasoning of LLMs a Mirage? A Data Distribution Lens",
-      "authors": ["Chengshuai Zhao", "Zhen Tan", "Pingchuan Ma", "Dawei Li", "Bohan Jiang", "Yancheng Wang", "Yingzhen Yang", "Huan Liu"],
+      "authors": [
+        "Chengshuai Zhao",
+        "Zhen Tan",
+        "Pingchuan Ma",
+        "Dawei Li",
+        "Bohan Jiang",
+        "Yancheng Wang",
+        "Yingzhen Yang",
+        "Huan Liu"
+      ],
       "arxiv_id": "2508.01191",
       "url": "https://arxiv.org/abs/2508.01191",
       "venue": "ACL 2026",
       "venue_rank": "CCF-A",
       "first_seen": "2026-06-04",
-      "keywords": ["LLM", "reasoning", "chain-of-thought", "data distribution", "OOD generalization"],
+      "keywords": [
+        "LLM",
+        "reasoning",
+        "chain-of-thought",
+        "data distribution",
+        "OOD generalization"
+      ],
       "citation_history": [
-        {"date": "2026-06-04", "count": 61}
+        {
+          "date": "2026-06-04",
+          "count": 61
+        },
+        {
+          "date": "2026-06-07",
+          "count": 61
+        }
       ]
     },
     "2506.19143": {
       "title": "Thought Anchors: Which LLM Reasoning Steps Matter?",
-      "authors": ["Paul C. Bogdan", "Uzay Macar", "Neel Nanda", "Arthur Conmy"],
+      "authors": [
+        "Paul C. Bogdan",
+        "Uzay Macar",
+        "Neel Nanda",
+        "Arthur Conmy"
+      ],
       "arxiv_id": "2506.19143",
       "url": "https://arxiv.org/abs/2506.19143",
       "venue": "ICLR 2026 (under review)",
       "venue_rank": "CCF-A",
       "first_seen": "2026-06-04",
-      "keywords": ["LLM", "reasoning", "interpretability", "chain-of-thought", "attention heads"],
+      "keywords": [
+        "LLM",
+        "reasoning",
+        "interpretability",
+        "chain-of-thought",
+        "attention heads"
+      ],
       "citation_history": [
-        {"date": "2026-06-04", "count": 98}
+        {
+          "date": "2026-06-04",
+          "count": 98
+        },
+        {
+          "date": "2026-06-07",
+          "count": 101
+        }
       ]
     },
     "2604.15726": {
       "title": "LLM Reasoning Is Latent, Not the Chain of Thought",
-      "authors": ["Wenshuo Wang"],
+      "authors": [
+        "Wenshuo Wang"
+      ],
       "arxiv_id": "2604.15726",
       "url": "https://arxiv.org/abs/2604.15726",
       "venue": "arXiv",
       "venue_rank": "preprint",
       "first_seen": "2026-06-04",
-      "keywords": ["LLM", "reasoning", "latent state", "chain-of-thought", "position paper"],
+      "keywords": [
+        "LLM",
+        "reasoning",
+        "latent state",
+        "chain-of-thought",
+        "position paper"
+      ],
       "citation_history": [
-        {"date": "2026-06-04", "count": 0}
+        {
+          "date": "2026-06-04",
+          "count": 0
+        },
+        {
+          "date": "2026-06-07",
+          "count": 0
+        }
       ]
     },
     "2605.06241": {
       "title": "Rethinking RL for LLM Reasoning: It's Sparse Policy Selection, Not Capability Learning",
-      "authors": ["Omer Akgul", "Rajgopal Kannan", "Willie Neiswanger", "Viktor K. Prasanna"],
+      "authors": [
+        "Omer Akgul",
+        "Rajgopal Kannan",
+        "Willie Neiswanger",
+        "Viktor K. Prasanna"
+      ],
       "arxiv_id": "2605.06241",
       "url": "https://arxiv.org/abs/2605.06241",
       "venue": "arXiv",
       "venue_rank": "preprint",
       "first_seen": "2026-06-05",
-      "keywords": ["LLM", "reasoning", "RL", "sparse policy selection", "ReasonMaxxer"],
+      "keywords": [
+        "LLM",
+        "reasoning",
+        "RL",
+        "sparse policy selection",
+        "ReasonMaxxer"
+      ],
       "citation_history": [
-        {"date": "2026-06-05", "count": 0}
+        {
+          "date": "2026-06-05",
+          "count": 0
+        },
+        {
+          "date": "2026-06-07",
+          "count": 0
+        }
       ]
     },
     "2606.01168": {
       "title": "Thinking Economically: A Hierarchical Framework for Adaptive-Complexity Reasoning in LLMs",
-      "authors": ["Yubo Gao", "Haotian Wu", "Hong Chen", "Jun Huang", "Yibo Yan", "Jungang Li", "Zihao Dongfang", "Sicheng Tao", "Puay Siew Tan", "Jie M. Zhang", "Xuming Hu"],
+      "authors": [
+        "Yubo Gao",
+        "Haotian Wu",
+        "Hong Chen",
+        "Jun Huang",
+        "Yibo Yan",
+        "Jungang Li",
+        "Zihao Dongfang",
+        "Sicheng Tao",
+        "Puay Siew Tan",
+        "Jie M. Zhang",
+        "Xuming Hu"
+      ],
       "arxiv_id": "2606.01168",
       "url": "https://arxiv.org/abs/2606.01168",
       "venue": "arXiv",
       "venue_rank": "preprint",
       "first_seen": "2026-06-05",
-      "keywords": ["LLM", "reasoning", "efficient reasoning", "CoT", "adaptive budget", "HAB"],
+      "keywords": [
+        "LLM",
+        "reasoning",
+        "efficient reasoning",
+        "CoT",
+        "adaptive budget",
+        "HAB"
+      ],
       "citation_history": [
-        {"date": "2026-06-05", "count": 0}
+        {
+          "date": "2026-06-05",
+          "count": 0
+        },
+        {
+          "date": "2026-06-07",
+          "count": 0
+        }
       ]
     },
     "2605.11453": {
       "title": "Predictive Maps of Multi-Agent Reasoning: A Successor-Representation Spectrum for LLM Communication Topologies",
-      "authors": ["E. Parks", "Dalal Alharthi"],
+      "authors": [
+        "E. Parks",
+        "Dalal Alharthi"
+      ],
       "arxiv_id": "2605.11453",
       "url": "https://arxiv.org/abs/2605.11453",
       "venue": "arXiv",
       "venue_rank": "preprint",
       "first_seen": "2026-06-05",
-      "keywords": ["LLM", "multi-agent", "reasoning", "successor representation", "communication topology"],
+      "keywords": [
+        "LLM",
+        "multi-agent",
+        "reasoning",
+        "successor representation",
+        "communication topology"
+      ],
       "citation_history": [
-        {"date": "2026-06-05", "count": 0}
+        {
+          "date": "2026-06-05",
+          "count": 0
+        },
+        {
+          "date": "2026-06-07",
+          "count": 0
+        }
       ]
     }
   },
-  "last_updated": "2026-06-05"
+  "last_updated": "2026-06-07"
 }
