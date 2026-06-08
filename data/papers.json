@@ -739,7 +739,94 @@
           "count": 0
         }
       ]
+    },
+    "2603.07197": {
+      "title": "Re²: Unlocking LLM Reasoning via Reinforcement Learning with Re-solving",
+      "authors": [
+        "Pinzheng Wang",
+        "Shuli Xu",
+        "Juntao Li",
+        "Yu Luo",
+        "Dong Li",
+        "Jianye Hao",
+        "Min Zhang"
+      ],
+      "arxiv_id": "2603.07197",
+      "url": "https://arxiv.org/abs/2603.07197",
+      "venue": "ICLR 2026",
+      "venue_rank": "CCF-A",
+      "first_seen": "2026-06-08",
+      "keywords": [
+        "LLM",
+        "reasoning",
+        "reinforcement learning",
+        "RLVR",
+        "self-correction",
+        "re-solving"
+      ],
+      "citation_history": [
+        {
+          "date": "2026-06-08",
+          "count": 0
+        }
+      ]
+    },
+    "2605.10195": {
+      "title": "Breaking the Reward Barrier: Accelerating Tree-of-Thought Reasoning via Speculative Exploration",
+      "authors": [
+        "Shuzhang Zhong",
+        "Haochen Huang",
+        "Shengxuan Qiu",
+        "Pengfei Zuo",
+        "Runsheng Wang",
+        "Meng Li"
+      ],
+      "arxiv_id": "2605.10195",
+      "url": "https://arxiv.org/abs/2605.10195",
+      "venue": "OSDI 2026",
+      "venue_rank": "CCF-A",
+      "first_seen": "2026-06-08",
+      "keywords": [
+        "LLM",
+        "reasoning",
+        "tree-of-thought",
+        "speculative execution",
+        "systems",
+        "inference acceleration"
+      ],
+      "citation_history": [
+        {
+          "date": "2026-06-08",
+          "count": 0
+        }
+      ]
+    },
+    "2605.30343": {
+      "title": "Unlocking the Working Memory of Large Language Models for Latent Reasoning",
+      "authors": [
+        "Lukas Aichberger",
+        "Sepp Hochreiter"
+      ],
+      "arxiv_id": "2605.30343",
+      "url": "https://arxiv.org/abs/2605.30343",
+      "venue": "arXiv",
+      "venue_rank": "preprint",
+      "first_seen": "2026-06-08",
+      "keywords": [
+        "LLM",
+        "reasoning",
+        "latent reasoning",
+        "working memory",
+        "Hochreiter",
+        "memory blocks"
+      ],
+      "citation_history": [
+        {
+          "date": "2026-06-08",
+          "count": 0
+        }
+      ]
     }
   },
-  "last_updated": "2026-06-07"
+  "last_updated": "2026-06-08"
 }
