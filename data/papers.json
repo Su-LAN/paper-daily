@@ -902,7 +902,101 @@
           "count": 0
         }
       ]
+    },
+    "2606.06447": {
+      "title": "Latent Reasoning with Normalizing Flows",
+      "authors": [
+        "Guancheng Tu",
+        "Xiangjun Fu",
+        "Suhao Yu",
+        "Yao Tang",
+        "Haoqiang Kang",
+        "Lianhui Qin",
+        "Yizhe Zhang",
+        "Jiatao Gu"
+      ],
+      "arxiv_id": "2606.06447",
+      "url": "https://arxiv.org/abs/2606.06447",
+      "venue": "arXiv",
+      "venue_rank": "preprint",
+      "first_seen": "2026-06-09",
+      "keywords": [
+        "LLM",
+        "reasoning",
+        "latent reasoning",
+        "normalizing flows",
+        "chain-of-thought",
+        "code generation"
+      ],
+      "citation_history": [
+        {
+          "date": "2026-06-09",
+          "count": 0
+        }
+      ]
+    },
+    "2606.01075": {
+      "title": "On the Generalization Gap in Self-Evolving Language Model Reasoning",
+      "authors": [
+        "Zhenting Qi",
+        "Susanna Maria Baby",
+        "Stefanie Anna Baby",
+        "Kan Yuan",
+        "Andrew Tomkins",
+        "Tu Vu",
+        "Da-Cheng Juan",
+        "Cyrus Rashtchian"
+      ],
+      "arxiv_id": "2606.01075",
+      "url": "https://arxiv.org/abs/2606.01075",
+      "venue": "ICML 2026",
+      "venue_rank": "CCF-A / CORE A*",
+      "first_seen": "2026-06-09",
+      "keywords": [
+        "LLM",
+        "reasoning",
+        "self-evolution",
+        "self-improvement",
+        "generalization",
+        "oracle supervision",
+        "critic-revision"
+      ],
+      "citation_history": [
+        {
+          "date": "2026-06-09",
+          "count": 0
+        }
+      ]
+    },
+    "2606.03883": {
+      "title": "Reasoning Structure of Large Language Models",
+      "authors": [
+        "Frédéric Berdoz",
+        "Luca A. Lanzendörfer",
+        "Fabian Farestam",
+        "Roger Wattenhofer"
+      ],
+      "arxiv_id": "2606.03883",
+      "url": "https://arxiv.org/abs/2606.03883",
+      "venue": "ICML 2026",
+      "venue_rank": "CCF-A / CORE A*",
+      "first_seen": "2026-06-09",
+      "keywords": [
+        "LLM",
+        "reasoning",
+        "LRM benchmark",
+        "reasoning graph",
+        "evaluation",
+        "logic puzzles",
+        "structural efficiency"
+      ],
+      "citation_history": [
+        {
+          "date": "2026-06-09",
+          "count": 0
+        }
+      ]
     }
   },
-  "last_updated": "2026-06-08"
+  "last_updated": "2026-06-09"
 }
