@@ -1152,6 +1152,96 @@
         }
       ]
     },
+    "2606.06188": {
+      "title": "The Tell-Tale Norm: ℓ2 Magnitude as a Signal for Reasoning Dynamics in Large Language Models",
+      "authors": [
+        "Jinyang Zhang",
+        "Hongxin Ding",
+        "Yue Fang",
+        "Weibin Liao",
+        "Muyang Ye",
+        "Junfeng Zhao",
+        "Yasha Wang"
+      ],
+      "arxiv_id": "2606.06188",
+      "url": "https://arxiv.org/abs/2606.06188",
+      "venue": "ICML 2026",
+      "venue_rank": "CCF-A / CORE A*",
+      "first_seen": "2026-06-11",
+      "keywords": [
+        "LLM",
+        "reasoning",
+        "interpretability",
+        "hidden states",
+        "l2 norm",
+        "sparse autoencoder",
+        "inference-time"
+      ],
+      "citation_history": [
+        {
+          "date": "2026-06-11",
+          "count": 0
+        }
+      ]
+    },
+    "2606.00206": {
+      "title": "Quantized Reasoning Models Think They Need to Think Longer, but They Do Not",
+      "authors": [
+        "Sanae Lotfi",
+        "Polina Kirichenko",
+        "Steven Li",
+        "Zechun Liu"
+      ],
+      "arxiv_id": "2606.00206",
+      "url": "https://arxiv.org/abs/2606.00206",
+      "venue": "arXiv",
+      "venue_rank": "preprint",
+      "first_seen": "2026-06-11",
+      "keywords": [
+        "LLM",
+        "reasoning",
+        "quantization",
+        "overthinking",
+        "chain-of-thought",
+        "efficient inference"
+      ],
+      "citation_history": [
+        {
+          "date": "2026-06-11",
+          "count": 0
+        }
+      ]
+    },
+    "2606.00240": {
+      "title": "MindZero: Learning Online Mental Reasoning With Zero Annotations",
+      "authors": [
+        "Shunchi Zhang",
+        "Jin Lu",
+        "Chuanyang Jin",
+        "Yichao Zhou",
+        "Zhining Zhang",
+        "Tianmin Shu"
+      ],
+      "arxiv_id": "2606.00240",
+      "url": "https://arxiv.org/abs/2606.00240",
+      "venue": "ICML 2026",
+      "venue_rank": "CCF-A / CORE A*",
+      "first_seen": "2026-06-11",
+      "keywords": [
+        "LLM",
+        "reasoning",
+        "theory of mind",
+        "self-supervised RL",
+        "multimodal",
+        "zero annotation"
+      ],
+      "citation_history": [
+        {
+          "date": "2026-06-11",
+          "count": 0
+        }
+      ]
+    },
     "2606.03883": {
       "title": "Reasoning Structure of Large Language Models",
       "authors": [
@@ -1186,5 +1276,5 @@
       ]
     }
   },
-  "last_updated": "2026-06-10"
+  "last_updated": "2026-06-11"
 }
