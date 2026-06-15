@@ -1710,7 +1710,94 @@
           "count": 0
         }
       ]
+    },
+    "2606.13649": {
+      "title": "Operadic Consistency: A Label-Free Signal for Compositional Reasoning Failures in LLMs",
+      "authors": [
+        "Nathaniel Bottman",
+        "Yinhong Liu",
+        "Kyle Richardson"
+      ],
+      "arxiv_id": "2606.13649",
+      "url": "https://arxiv.org/abs/2606.13649",
+      "venue": "arXiv",
+      "venue_rank": "preprint",
+      "first_seen": "2026-06-15",
+      "keywords": [
+        "LLM",
+        "reasoning",
+        "compositional",
+        "operad theory",
+        "failure detection",
+        "label-free"
+      ],
+      "citation_history": [
+        {
+          "date": "2026-06-15",
+          "count": 1
+        }
+      ]
+    },
+    "2606.05976": {
+      "title": "The Self-Correction Illusion: LLMs Correct Others but Not Themselves",
+      "authors": [
+        "Kuan-Yen Chen",
+        "Fang-Yi Su",
+        "Jung-Hsien Chiang"
+      ],
+      "arxiv_id": "2606.05976",
+      "url": "https://arxiv.org/abs/2606.05976",
+      "venue": "arXiv",
+      "venue_rank": "preprint",
+      "first_seen": "2026-06-15",
+      "keywords": [
+        "LLM",
+        "reasoning",
+        "self-correction",
+        "chat template",
+        "prompt structure"
+      ],
+      "citation_history": [
+        {
+          "date": "2026-06-15",
+          "count": 0
+        }
+      ]
+    },
+    "2606.11470": {
+      "title": "The Periodic Table of LLM Reasoning: A Structured Survey of Reasoning Paradigms, Methods, and Failure Modes",
+      "authors": [
+        "Avinash Anand",
+        "Mahisha Ramesh",
+        "Avni Mittal",
+        "Ashutosh Kumar",
+        "Erik Cambria",
+        "Zhengkui Wang",
+        "Timothy Liu",
+        "Aik Beng Ng",
+        "Simon See",
+        "Rajiv Ratn Shah"
+      ],
+      "arxiv_id": "2606.11470",
+      "url": "https://arxiv.org/abs/2606.11470",
+      "venue": "arXiv",
+      "venue_rank": "preprint",
+      "first_seen": "2026-06-15",
+      "keywords": [
+        "LLM",
+        "reasoning",
+        "survey",
+        "taxonomy",
+        "chain-of-thought",
+        "failure modes"
+      ],
+      "citation_history": [
+        {
+          "date": "2026-06-15",
+          "count": 0
+        }
+      ]
     }
   },
-  "last_updated": "2026-06-13"
+  "last_updated": "2026-06-15"
 }
