@@ -1921,7 +1921,95 @@
           "count": 0
         }
       ]
+    },
+    "2606.13316": {
+      "title": "ReSum: Synergizing LLM Reasoning and Summarization with Reinforcement Learning",
+      "authors": [
+        "Xucong Wang",
+        "Ziyu Ma",
+        "Yong Wang",
+        "Shidong Yang",
+        "Hailang Huang",
+        "Renda Li",
+        "Pengkun Wang",
+        "Xiangxiang Chu"
+      ],
+      "arxiv_id": "2606.13316",
+      "url": "https://arxiv.org/abs/2606.13316",
+      "venue": "arXiv",
+      "venue_rank": "preprint",
+      "first_seen": "2026-06-16",
+      "keywords": [
+        "LLM",
+        "reasoning",
+        "RLVR",
+        "summarization",
+        "long-horizon",
+        "token efficiency"
+      ],
+      "citation_history": [
+        {
+          "date": "2026-06-16",
+          "count": 0
+        }
+      ]
+    },
+    "2606.04381": {
+      "title": "From Symbolic to Geometric: Enabling Spatial Reasoning in Large Language Models",
+      "authors": [
+        "Chen Chu",
+        "Bita Azarijoo",
+        "Li Xiong",
+        "Khurram Shafique",
+        "Cyrus Shahabi"
+      ],
+      "arxiv_id": "2606.04381",
+      "url": "https://arxiv.org/abs/2606.04381",
+      "venue": "arXiv",
+      "venue_rank": "preprint",
+      "first_seen": "2026-06-16",
+      "keywords": [
+        "LLM",
+        "reasoning",
+        "spatial reasoning",
+        "multimodal",
+        "geometric",
+        "benchmark"
+      ],
+      "citation_history": [
+        {
+          "date": "2026-06-16",
+          "count": 0
+        }
+      ]
+    },
+    "2606.11893": {
+      "title": "Beyond Representational Alignment with Brain-Guided Language Models for Robust Reasoning",
+      "authors": [
+        "Mingqing Xiao",
+        "Kai Du",
+        "Zhouchen Lin"
+      ],
+      "arxiv_id": "2606.11893",
+      "url": "https://arxiv.org/abs/2606.11893",
+      "venue": "arXiv",
+      "venue_rank": "preprint",
+      "first_seen": "2026-06-16",
+      "keywords": [
+        "LLM",
+        "reasoning",
+        "neuro-AI",
+        "fMRI",
+        "brain-guided",
+        "robustness"
+      ],
+      "citation_history": [
+        {
+          "date": "2026-06-16",
+          "count": 0
+        }
+      ]
     }
   },
-  "last_updated": "2026-06-15"
+  "last_updated": "2026-06-16"
 }
