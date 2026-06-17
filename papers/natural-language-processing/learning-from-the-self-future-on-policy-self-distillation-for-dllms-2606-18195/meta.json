@@ -1,0 +1,21 @@
+{
+  "arxiv_id": "2606.18195v1",
+  "abs_url": "http://arxiv.org/abs/2606.18195v1",
+  "pdf_url": "https://arxiv.org/pdf/2606.18195v1",
+  "title": "Learning from the Self-future: On-policy Self-distillation for dLLMs",
+  "authors": [
+    "Yifu Luo",
+    "Zeyu Chen",
+    "Haoyu Wang",
+    "Xinhao Hu",
+    "Yuxuan Zhang",
+    "Zhizhou Sha",
+    "Shiwei Liu"
+  ],
+  "categories": [
+    "cs.CL"
+  ],
+  "published": "2026-06-16T17:24:57+00:00",
+  "updated": "2026-06-16T17:24:57+00:00",
+  "domain": "natural-language-processing"
+}

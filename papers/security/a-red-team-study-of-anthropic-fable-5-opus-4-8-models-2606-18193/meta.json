@@ -1,0 +1,17 @@
+{
+  "arxiv_id": "2606.18193v1",
+  "abs_url": "http://arxiv.org/abs/2606.18193v1",
+  "pdf_url": "https://arxiv.org/pdf/2606.18193v1",
+  "title": "A Red-Team Study of Anthropic Fable 5 & Opus 4.8 Models",
+  "authors": [
+    "Nicola Franco"
+  ],
+  "categories": [
+    "cs.CR",
+    "cs.AI",
+    "cs.CL"
+  ],
+  "published": "2026-06-16T17:23:58+00:00",
+  "updated": "2026-06-16T17:23:58+00:00",
+  "domain": "security"
+}

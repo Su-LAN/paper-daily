@@ -1,0 +1,17 @@
+{
+  "arxiv_id": "2606.18192v1",
+  "abs_url": "http://arxiv.org/abs/2606.18192v1",
+  "pdf_url": "https://arxiv.org/pdf/2606.18192v1",
+  "title": "The Stanford EDGAR Filings Dataset: Reconstructing U.S. Corporate and Financial Disclosures into Layout-Faithful and Token-Efficient Pretraining Data",
+  "authors": [
+    "Nick Bettencourt",
+    "Xiaowei Ding",
+    "Kay Giesecke"
+  ],
+  "categories": [
+    "cs.AI"
+  ],
+  "published": "2026-06-16T17:22:34+00:00",
+  "updated": "2026-06-16T17:22:34+00:00",
+  "domain": "machine-learning"
+}
