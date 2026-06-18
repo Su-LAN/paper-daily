@@ -1,0 +1,18 @@
+{
+  "arxiv_id": "2606.19264v1",
+  "abs_url": "http://arxiv.org/abs/2606.19264v1",
+  "pdf_url": "https://arxiv.org/pdf/2606.19264v1",
+  "title": "Structured Inference with Large Language Gibbs",
+  "authors": [
+    "Sanghyeok Choi",
+    "Henry Gouk",
+    "Esmeralda S. Whitammer"
+  ],
+  "categories": [
+    "cs.LG",
+    "cs.CL"
+  ],
+  "published": "2026-06-17T16:40:32+00:00",
+  "updated": "2026-06-17T16:40:32+00:00",
+  "domain": "machine-learning"
+}

@@ -1,0 +1,20 @@
+{
+  "arxiv_id": "2606.19308v1",
+  "abs_url": "http://arxiv.org/abs/2606.19308v1",
+  "pdf_url": "https://arxiv.org/pdf/2606.19308v1",
+  "title": "Enhancing Decision-Making with Large Language Models through Multi-Agent Fictitious Play",
+  "authors": [
+    "Leyang Shen",
+    "Yang Zhang",
+    "Xiaoyan Zhao",
+    "Chun Kai Ling",
+    "Tat-Seng Chua"
+  ],
+  "categories": [
+    "cs.CL",
+    "cs.MA"
+  ],
+  "published": "2026-06-17T17:31:06+00:00",
+  "updated": "2026-06-17T17:31:06+00:00",
+  "domain": "natural-language-processing"
+}
