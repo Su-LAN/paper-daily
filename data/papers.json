@@ -2157,6 +2157,97 @@
           "count": 0
         }
       ]
+    },
+    "2606.14961": {
+      "title": "CoRA: Confidence-Rationale Alignment for Reliable Chain-of-Thought Reasoning",
+      "authors": [
+        "Juming Xiong",
+        "Weixin Liu",
+        "Kevin Guo",
+        "Congning Ni",
+        "Junchao Zhu",
+        "Chongyu Qu",
+        "Chao Yan",
+        "Katherine Brown",
+        "Avinash Baidya",
+        "Xiang Gao",
+        "Bradley Malin",
+        "Zhijun Yin"
+      ],
+      "arxiv_id": "2606.14961",
+      "url": "https://arxiv.org/abs/2606.14961",
+      "venue": "arXiv (preprint)",
+      "venue_rank": "preprint",
+      "first_seen": "2026-06-18",
+      "keywords": [
+        "LLM",
+        "reasoning",
+        "chain-of-thought",
+        "RL",
+        "calibration"
+      ],
+      "citation_history": [
+        {
+          "date": "2026-06-18",
+          "count": 0
+        }
+      ]
+    },
+    "2606.16118": {
+      "title": "Know Your Limits: On the Faithfulness of LLMs as Solvers and Autoformalizers in Legal Reasoning",
+      "authors": [
+        "Olivia Peiyu Wang",
+        "Sanna Wong-Toropainen",
+        "Daneshvar Amrollahi",
+        "Ryan Bai",
+        "Tashvi Bansal",
+        "Arush Garg",
+        "Leilani H. Gilpin"
+      ],
+      "arxiv_id": "2606.16118",
+      "url": "https://arxiv.org/abs/2606.16118",
+      "venue": "arXiv (preprint)",
+      "venue_rank": "preprint",
+      "first_seen": "2026-06-18",
+      "keywords": [
+        "LLM",
+        "reasoning",
+        "faithfulness",
+        "autoformalization",
+        "legal"
+      ],
+      "citation_history": [
+        {
+          "date": "2026-06-18",
+          "count": 0
+        }
+      ]
+    },
+    "2606.15419": {
+      "title": "Let LLMs Judge Each Other: Multi-Agent Peer-Reviewed Reasoning for Medical Question Answering",
+      "authors": [
+        "Zaifu Zhan",
+        "Shuang Zhou",
+        "Rui Zhang"
+      ],
+      "arxiv_id": "2606.15419",
+      "url": "https://arxiv.org/abs/2606.15419",
+      "venue": "arXiv (preprint)",
+      "venue_rank": "preprint",
+      "first_seen": "2026-06-18",
+      "keywords": [
+        "LLM",
+        "reasoning",
+        "multi-agent",
+        "peer-review",
+        "medical QA"
+      ],
+      "citation_history": [
+        {
+          "date": "2026-06-18",
+          "count": 0
+        }
+      ]
     }
   },
   "last_updated": "2026-06-18"
