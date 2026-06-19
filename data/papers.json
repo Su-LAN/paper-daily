@@ -2248,7 +2248,95 @@
           "count": 0
         }
       ]
+    },
+    "2606.17024": {
+      "title": "ExpRL: Exploratory RL for LLM Mid-Training",
+      "authors": [
+        "Violet Xiang",
+        "Amrith Setlur",
+        "Chase Blagden",
+        "Nick Haber",
+        "Aviral Kumar"
+      ],
+      "arxiv_id": "2606.17024",
+      "url": "https://arxiv.org/abs/2606.17024",
+      "venue": "arXiv (preprint)",
+      "venue_rank": "preprint",
+      "first_seen": "2026-06-19",
+      "keywords": [
+        "LLM",
+        "reasoning",
+        "reinforcement learning",
+        "mid-training",
+        "dense reward"
+      ],
+      "citation_history": [
+        {
+          "date": "2026-06-19",
+          "count": 0
+        }
+      ]
+    },
+    "2606.17890": {
+      "title": "Dynamic Rollout Editing for Reducing Overthinking in RL-Trained Reasoning Models",
+      "authors": [
+        "Zihao Wei",
+        "Wenjie Shi",
+        "Liang Pang",
+        "Jingcheng Deng",
+        "Shicheng Xu",
+        "Shasha Guo",
+        "Zenghao Duan",
+        "Jiahao Liu",
+        "Jingang Wang",
+        "Huawei Shen",
+        "Xueqi Cheng"
+      ],
+      "arxiv_id": "2606.17890",
+      "url": "https://arxiv.org/abs/2606.17890",
+      "venue": "arXiv (preprint)",
+      "venue_rank": "preprint",
+      "first_seen": "2026-06-19",
+      "keywords": [
+        "LLM",
+        "reasoning",
+        "overthinking",
+        "GRPO",
+        "credit assignment"
+      ],
+      "citation_history": [
+        {
+          "date": "2026-06-19",
+          "count": 0
+        }
+      ]
+    },
+    "2606.01667": {
+      "title": "ATLAS: Agentic Test-time Learning-to-Allocate Scaling",
+      "authors": [
+        "Peijia Qin",
+        "Qi Cao",
+        "Pengtao Xie"
+      ],
+      "arxiv_id": "2606.01667",
+      "url": "https://arxiv.org/abs/2606.01667",
+      "venue": "arXiv (preprint)",
+      "venue_rank": "preprint",
+      "first_seen": "2026-06-19",
+      "keywords": [
+        "LLM",
+        "reasoning",
+        "test-time scaling",
+        "agentic",
+        "compute allocation"
+      ],
+      "citation_history": [
+        {
+          "date": "2026-06-19",
+          "count": 0
+        }
+      ]
     }
   },
-  "last_updated": "2026-06-18"
+  "last_updated": "2026-06-19"
 }
