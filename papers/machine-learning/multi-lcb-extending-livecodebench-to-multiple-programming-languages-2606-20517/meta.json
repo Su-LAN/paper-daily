@@ -1,0 +1,23 @@
+{
+  "arxiv_id": "2606.20517v1",
+  "abs_url": "http://arxiv.org/abs/2606.20517v1",
+  "pdf_url": "https://arxiv.org/pdf/2606.20517v1",
+  "title": "Multi-LCB: Extending LiveCodeBench to Multiple Programming Languages",
+  "authors": [
+    "Maria Ivanova",
+    "Pavel Zadorozhny",
+    "Rodion Levichev",
+    "Ivan Petrov",
+    "Adamenko Pavel",
+    "Ivan Lopatin",
+    "Alexey Kutalev",
+    "Dmitrii Babaev"
+  ],
+  "categories": [
+    "cs.AI",
+    "cs.PL"
+  ],
+  "published": "2026-06-18T17:35:57+00:00",
+  "updated": "2026-06-18T17:35:57+00:00",
+  "domain": "machine-learning"
+}

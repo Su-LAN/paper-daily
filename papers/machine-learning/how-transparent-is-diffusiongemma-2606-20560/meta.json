@@ -1,0 +1,29 @@
+{
+  "arxiv_id": "2606.20560v1",
+  "abs_url": "http://arxiv.org/abs/2606.20560v1",
+  "pdf_url": "https://arxiv.org/pdf/2606.20560v1",
+  "title": "How Transparent is DiffusionGemma?",
+  "authors": [
+    "Joshua Engels",
+    "Callum McDougall",
+    "Bilal Chughtai",
+    "Janos Kramar",
+    "Senthoran Rajamanoharan",
+    "Cindy Wu",
+    "Arthur Conmy",
+    "Asic Q Chen",
+    "Jean Tarbouriech",
+    "Min Ma",
+    "Brendan O'Donoghue",
+    "João Gabriel Lopes de Oliveira",
+    "Rohin Shah",
+    "Neel Nanda"
+  ],
+  "categories": [
+    "cs.LG",
+    "cs.AI"
+  ],
+  "published": "2026-06-18T17:59:46+00:00",
+  "updated": "2026-06-18T17:59:46+00:00",
+  "domain": "machine-learning"
+}

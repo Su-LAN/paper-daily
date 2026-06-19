@@ -1,0 +1,19 @@
+{
+  "arxiv_id": "2606.20561v1",
+  "abs_url": "http://arxiv.org/abs/2606.20561v1",
+  "pdf_url": "https://arxiv.org/pdf/2606.20561v1",
+  "title": "TimeProVe: Propose, then Verify for Efficient Long Video Temporal Reasoning in Activities of Daily Living",
+  "authors": [
+    "Arkaprava Sinha",
+    "Dominick Reilly",
+    "Siddharth Krishnan",
+    "Hieu Le",
+    "Srijan Das"
+  ],
+  "categories": [
+    "cs.CV"
+  ],
+  "published": "2026-06-18T17:59:48+00:00",
+  "updated": "2026-06-18T17:59:48+00:00",
+  "domain": "computer-vision"
+}
