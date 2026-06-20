@@ -2496,7 +2496,95 @@
           "count": 0
         }
       ]
+    },
+    "2606.19354": {
+      "title": "Granularity-Regulated Adaptive Computational Efficiency for Optimal Verification in Test-Time Scaling",
+      "authors": [
+        "Ardit Krasniqi",
+        "Luan Vejsiu",
+        "Elira Dervishi"
+      ],
+      "arxiv_id": "2606.19354",
+      "url": "https://arxiv.org/abs/2606.19354",
+      "venue": "arXiv (preprint)",
+      "venue_rank": "preprint",
+      "first_seen": "2026-06-20",
+      "keywords": [
+        "LLM",
+        "reasoning",
+        "test-time scaling",
+        "verification",
+        "MCTS",
+        "beam search"
+      ],
+      "citation_history": [
+        {
+          "date": "2026-06-20",
+          "count": 0
+        }
+      ]
+    },
+    "2606.19625": {
+      "title": "Where Does Social Reasoning Come From? Capability Provenance in Language Models",
+      "authors": [
+        "Glenn Matlin",
+        "Chandreyi Chakraborty",
+        "Saehee Eom",
+        "Mika Okamoto",
+        "Rayan Castilla",
+        "Louis Jaburi",
+        "Alvin Deng",
+        "Taywon Min",
+        "Lucia Quirke",
+        "Stella Biderman",
+        "Mark Riedl"
+      ],
+      "arxiv_id": "2606.19625",
+      "url": "https://arxiv.org/abs/2606.19625",
+      "venue": "COLM 2026 (under review)",
+      "venue_rank": "preprint",
+      "first_seen": "2026-06-20",
+      "keywords": [
+        "LLM",
+        "reasoning",
+        "social reasoning",
+        "training data attribution",
+        "interpretability"
+      ],
+      "citation_history": [
+        {
+          "date": "2026-06-20",
+          "count": 0
+        }
+      ]
+    },
+    "2606.17803": {
+      "title": "Continual Self-Improvement with Lightweight Experiential Latent Memories",
+      "authors": [
+        "Vaggelis Dorovatas",
+        "Nancy Kalaj",
+        "Rahaf Aljundi"
+      ],
+      "arxiv_id": "2606.17803",
+      "url": "https://arxiv.org/abs/2606.17803",
+      "venue": "arXiv (preprint)",
+      "venue_rank": "preprint",
+      "first_seen": "2026-06-20",
+      "keywords": [
+        "LLM",
+        "reasoning",
+        "continual learning",
+        "latent memory",
+        "self-improvement",
+        "soft prompts"
+      ],
+      "citation_history": [
+        {
+          "date": "2026-06-20",
+          "count": 0
+        }
+      ]
     }
   },
-  "last_updated": "2026-06-19"
+  "last_updated": "2026-06-20"
 }
