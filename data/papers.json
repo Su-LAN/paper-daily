@@ -2756,6 +2756,111 @@
           "count": 0
         }
       ]
+    },
+    "2606.16140": {
+      "title": "VibeThinker-3B: Exploring the Frontier of Verifiable Reasoning in Small Language Models",
+      "authors": [
+        "Sen Xu",
+        "Shixi Liu",
+        "Wei Wang",
+        "Jixin Min",
+        "Yingwei Dai",
+        "Zhibin Yin",
+        "Yirong Chen",
+        "Xin Zhou",
+        "Junlin Zhang"
+      ],
+      "arxiv_id": "2606.16140",
+      "url": "https://arxiv.org/abs/2606.16140",
+      "venue": "arXiv preprint",
+      "venue_rank": "preprint",
+      "first_seen": "2026-06-21",
+      "keywords": [
+        "LLM",
+        "reasoning",
+        "RL",
+        "small models",
+        "verifiable reasoning"
+      ],
+      "citation_history": [
+        {
+          "date": "2026-06-21",
+          "count": 0
+        }
+      ]
+    },
+    "2606.17053": {
+      "title": "Context-Aware RL for Agentic and Multimodal LLMs",
+      "authors": [
+        "Peiyang Xu",
+        "Bangzheng Li",
+        "Sijia Liu",
+        "Karthik R. Narasimhan",
+        "Pramod Viswanath",
+        "Prateek Mittal",
+        "Xingyu Fu"
+      ],
+      "arxiv_id": "2606.17053",
+      "url": "https://arxiv.org/abs/2606.17053",
+      "venue": "arXiv preprint",
+      "venue_rank": "preprint",
+      "first_seen": "2026-06-21",
+      "keywords": [
+        "LLM",
+        "reasoning",
+        "RL",
+        "agent",
+        "multimodal",
+        "context"
+      ],
+      "citation_history": [
+        {
+          "date": "2026-06-21",
+          "count": 0
+        }
+      ]
+    },
+    "2606.18023": {
+      "title": "LoopCoder-v2: Only Loop Once for Efficient Test-Time Computation Scaling",
+      "authors": [
+        "Jian Yang",
+        "Shawn Guo",
+        "Wei Zhang",
+        "Tianyu Zheng",
+        "Yaxin Du",
+        "Haau-Sing Li",
+        "Jiajun Wu",
+        "Yue Song",
+        "Yan Xing",
+        "Qingsong Cai",
+        "Zelong Huang",
+        "Chuan Hao",
+        "Ran Tao",
+        "Xianglong Liu",
+        "Wayne Xin Zhao",
+        "Mingjie Tang",
+        "Weifeng Lv",
+        "Ming Zhou",
+        "Bryan Dai"
+      ],
+      "arxiv_id": "2606.18023",
+      "url": "https://arxiv.org/abs/2606.18023",
+      "venue": "arXiv preprint",
+      "venue_rank": "preprint",
+      "first_seen": "2026-06-21",
+      "keywords": [
+        "LLM",
+        "reasoning",
+        "test-time scaling",
+        "looped transformer",
+        "code"
+      ],
+      "citation_history": [
+        {
+          "date": "2026-06-21",
+          "count": 0
+        }
+      ]
     }
   },
   "last_updated": "2026-06-20"
