@@ -3241,6 +3241,88 @@
           "count": 0
         }
       ]
+    },
+    "2606.15070": {
+      "title": "Stop When Further Reasoning Won't Help: Attention-State Adaptive Generation in Reasoning Models",
+      "authors": [
+        "Jiakai Li",
+        "Ke Qin",
+        "Rongzheng Wang",
+        "Yizhuo Ma",
+        "Qizhi Chen",
+        "Muquan Li",
+        "Shuang Liang"
+      ],
+      "arxiv_id": "2606.15070",
+      "url": "https://arxiv.org/abs/2606.15070",
+      "venue": "ICML 2026 Spotlight",
+      "venue_rank": "CCF-A",
+      "first_seen": "2026-06-23",
+      "keywords": [
+        "LLM",
+        "reasoning",
+        "overthinking",
+        "test-time compute",
+        "attention"
+      ],
+      "citation_history": [
+        {
+          "date": "2026-06-23",
+          "count": 0
+        }
+      ]
+    },
+    "2606.11521": {
+      "title": "Counterexample Guided Learning in the Large using Reasoning Agents",
+      "authors": [
+        "Hongyi Liu",
+        "Frederic Sala",
+        "Thomas Reps",
+        "Adithya Murali"
+      ],
+      "arxiv_id": "2606.11521",
+      "url": "https://arxiv.org/abs/2606.11521",
+      "venue": "arXiv preprint",
+      "venue_rank": "preprint",
+      "first_seen": "2026-06-23",
+      "keywords": [
+        "LLM",
+        "reasoning",
+        "CEGIS",
+        "verifier-guided",
+        "program synthesis"
+      ],
+      "citation_history": [
+        {
+          "date": "2026-06-23",
+          "count": 0
+        }
+      ]
+    },
+    "2606.10662": {
+      "title": "Decentralized Multi-Agent Systems with Shared Context",
+      "authors": [
+        "Yuzhen Mao",
+        "Azalia Mirhoseini"
+      ],
+      "arxiv_id": "2606.10662",
+      "url": "https://arxiv.org/abs/2606.10662",
+      "venue": "arXiv preprint",
+      "venue_rank": "preprint",
+      "first_seen": "2026-06-23",
+      "keywords": [
+        "LLM",
+        "reasoning",
+        "multi-agent",
+        "decentralized",
+        "agentic"
+      ],
+      "citation_history": [
+        {
+          "date": "2026-06-23",
+          "count": 0
+        }
+      ]
     }
   },
   "last_updated": "2026-06-23"
