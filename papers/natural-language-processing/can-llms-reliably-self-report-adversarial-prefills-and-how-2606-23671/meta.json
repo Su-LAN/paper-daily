@@ -1,0 +1,17 @@
+{
+  "arxiv_id": "2606.23671v1",
+  "abs_url": "http://arxiv.org/abs/2606.23671v1",
+  "pdf_url": "https://arxiv.org/pdf/2606.23671v1",
+  "title": "Can LLMs Reliably Self-Report Adversarial Prefills, and How?",
+  "authors": [
+    "Quang Minh Nguyen",
+    "Uzair Ahmed",
+    "Taegyoon Kim"
+  ],
+  "categories": [
+    "cs.CL"
+  ],
+  "published": "2026-06-22T17:56:30+00:00",
+  "updated": "2026-06-22T17:56:30+00:00",
+  "domain": "natural-language-processing"
+}

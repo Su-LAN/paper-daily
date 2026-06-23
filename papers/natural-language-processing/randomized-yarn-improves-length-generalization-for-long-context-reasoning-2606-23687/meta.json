@@ -1,0 +1,17 @@
+{
+  "arxiv_id": "2606.23687v1",
+  "abs_url": "http://arxiv.org/abs/2606.23687v1",
+  "pdf_url": "https://arxiv.org/pdf/2606.23687v1",
+  "title": "Randomized YaRN Improves Length Generalization for Long-Context Reasoning",
+  "authors": [
+    "Manas Mehta",
+    "Fangcong Yin",
+    "Greg Durrett"
+  ],
+  "categories": [
+    "cs.CL"
+  ],
+  "published": "2026-06-22T17:59:53+00:00",
+  "updated": "2026-06-22T17:59:53+00:00",
+  "domain": "natural-language-processing"
+}

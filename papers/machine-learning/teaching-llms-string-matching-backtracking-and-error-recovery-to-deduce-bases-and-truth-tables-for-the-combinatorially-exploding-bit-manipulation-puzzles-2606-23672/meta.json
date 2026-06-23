@@ -1,0 +1,19 @@
+{
+  "arxiv_id": "2606.23672v1",
+  "abs_url": "http://arxiv.org/abs/2606.23672v1",
+  "pdf_url": "https://arxiv.org/pdf/2606.23672v1",
+  "title": "Teaching LLMs String Matching, Backtracking, and Error Recovery to Deduce Bases and Truth Tables for the Combinatorially Exploding Bit Manipulation Puzzles",
+  "authors": [
+    "Prateek Agnihotri",
+    "Sanchit Jain",
+    "Prabhat Agnihotri",
+    "Aditya Prasad",
+    "Shubham Jain"
+  ],
+  "categories": [
+    "cs.AI"
+  ],
+  "published": "2026-06-22T17:57:08+00:00",
+  "updated": "2026-06-22T17:57:08+00:00",
+  "domain": "machine-learning"
+}
