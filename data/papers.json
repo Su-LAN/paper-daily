@@ -3323,6 +3323,101 @@
           "count": 0
         }
       ]
+    },
+    "2606.22570": {
+      "title": "What are Key Factors for Updates in RL for LLM Reasoning?",
+      "authors": [
+        "Peidong Wang",
+        "Demi Wang",
+        "Xufang Luo",
+        "Jiahang Xu",
+        "Xiaocui Yang",
+        "Shi Feng",
+        "Yuqing Yang",
+        "Dongsheng Li"
+      ],
+      "arxiv_id": "2606.22570",
+      "url": "https://arxiv.org/abs/2606.22570",
+      "venue": "Findings of ACL 2026",
+      "venue_rank": "CCF-A",
+      "first_seen": "2026-06-24",
+      "keywords": [
+        "LLM",
+        "reasoning",
+        "RL",
+        "RLVR",
+        "GRPO",
+        "policy optimization"
+      ],
+      "citation_history": [
+        {
+          "date": "2026-06-24",
+          "count": 0
+        }
+      ]
+    },
+    "2606.16733": {
+      "title": "A First-Principles Derivation of LLM Policy Optimization: From Expected Reward to GRPO and Its Structural Extensions",
+      "authors": [
+        "Jianghan Shen",
+        "Siqi Luo",
+        "Yue Li",
+        "Jiyao Liu",
+        "Wanying Qu",
+        "Yi Zhang",
+        "Ziyan Huang",
+        "Tianbin Li",
+        "Ming Hu",
+        "Xiaohong Liu",
+        "Yirong Chen",
+        "Junjun He"
+      ],
+      "arxiv_id": "2606.16733",
+      "url": "https://arxiv.org/abs/2606.16733",
+      "venue": "arXiv preprint (cs.AI)",
+      "venue_rank": "preprint",
+      "first_seen": "2026-06-24",
+      "keywords": [
+        "LLM",
+        "reasoning",
+        "policy optimization",
+        "GRPO",
+        "RL"
+      ],
+      "citation_history": [
+        {
+          "date": "2026-06-24",
+          "count": 0
+        }
+      ]
+    },
+    "2606.20245": {
+      "title": "Navigating Unreliable Parametric and Contextual Knowledge: Explicit Knowledge Conflict Resolution for LLM Inference",
+      "authors": [
+        "Huang Peng",
+        "Jiuyang Tang",
+        "Weixin Zeng",
+        "Hao Xu",
+        "Xiang Zhao"
+      ],
+      "arxiv_id": "2606.20245",
+      "url": "https://arxiv.org/abs/2606.20245",
+      "venue": "arXiv preprint (cs.AI)",
+      "venue_rank": "preprint",
+      "first_seen": "2026-06-24",
+      "keywords": [
+        "LLM",
+        "reasoning",
+        "knowledge conflict",
+        "multi-agent",
+        "RAG"
+      ],
+      "citation_history": [
+        {
+          "date": "2026-06-24",
+          "count": 0
+        }
+      ]
     }
   },
   "last_updated": "2026-06-23"
