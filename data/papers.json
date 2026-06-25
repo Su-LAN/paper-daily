@@ -3606,7 +3606,84 @@
           "count": 0
         }
       ]
+    },
+    "2606.21884": {
+      "title": "A Verifiable Search Is Not a Learnable Chain-of-Thought",
+      "authors": [
+        "Harsh Patel"
+      ],
+      "arxiv_id": "2606.21884",
+      "url": "https://arxiv.org/abs/2606.21884",
+      "venue": "arXiv preprint (cs.LG)",
+      "venue_rank": "preprint",
+      "first_seen": "2026-06-25",
+      "keywords": [
+        "LLM",
+        "reasoning",
+        "chain-of-thought",
+        "distillation",
+        "search",
+        "learnability"
+      ],
+      "citation_history": [
+        {
+          "date": "2026-06-25",
+          "count": 0
+        }
+      ]
+    },
+    "2606.23687": {
+      "title": "Randomized YaRN Improves Length Generalization for Long-Context Reasoning",
+      "authors": [
+        "Manas Mehta",
+        "Fangcong Yin",
+        "Greg Durrett"
+      ],
+      "arxiv_id": "2606.23687",
+      "url": "https://arxiv.org/abs/2606.23687",
+      "venue": "arXiv preprint (cs.CL)",
+      "venue_rank": "preprint",
+      "first_seen": "2026-06-25",
+      "keywords": [
+        "LLM",
+        "reasoning",
+        "long-context",
+        "positional encoding",
+        "YaRN",
+        "length generalization"
+      ],
+      "citation_history": [
+        {
+          "date": "2026-06-25",
+          "count": 0
+        }
+      ]
+    },
+    "2606.24543": {
+      "title": "Reasoning as Attractor Dynamics: Latent Memory Retrieval via Gibbs-Weighted Energy Minimization",
+      "authors": [
+        "Kanishk Awadhiya"
+      ],
+      "arxiv_id": "2606.24543",
+      "url": "https://arxiv.org/abs/2606.24543",
+      "venue": "ICLR Workshop 2026",
+      "venue_rank": "CORE-A*",
+      "first_seen": "2026-06-25",
+      "keywords": [
+        "LLM",
+        "reasoning",
+        "latent reasoning",
+        "attractor dynamics",
+        "self-consistency",
+        "energy"
+      ],
+      "citation_history": [
+        {
+          "date": "2026-06-25",
+          "count": 0
+        }
+      ]
     }
   },
-  "last_updated": "2026-06-23"
+  "last_updated": "2026-06-25"
 }
