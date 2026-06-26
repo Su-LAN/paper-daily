@@ -3903,7 +3903,97 @@
           "count": 0
         }
       ]
+    },
+    "2606.25832": {
+      "title": "MiniOpt: Reasoning to Model and Solve General Optimization Problems with Limited Resources",
+      "authors": [
+        "Ke Zhao",
+        "Zixiang Di",
+        "Hong Qian",
+        "Xiang Shu",
+        "Yaolin Wen",
+        "Qitao Shi",
+        "Bingdong Li",
+        "Xingyu Lu",
+        "Xiangfeng Wang",
+        "Jun Zhou",
+        "Ke Tang",
+        "Yang Yu"
+      ],
+      "arxiv_id": "2606.25832",
+      "url": "https://arxiv.org/abs/2606.25832",
+      "venue": "arXiv preprint (EMNLP 2026 under review)",
+      "venue_rank": "CCF-A",
+      "first_seen": "2026-06-26",
+      "keywords": [
+        "LLM",
+        "reasoning",
+        "optimization",
+        "reinforcement learning",
+        "GRPO",
+        "verifiable reward",
+        "small model"
+      ],
+      "citation_history": [
+        {
+          "date": "2026-06-26",
+          "count": 0
+        }
+      ]
+    },
+    "2606.24391": {
+      "title": "Age of LLM: A Strategic 1v1 Benchmark for Reasoning, Diplomacy and Reliability of Large Language Models under Fog of War",
+      "authors": [
+        "Arnaud Ricci"
+      ],
+      "arxiv_id": "2606.24391",
+      "url": "https://arxiv.org/abs/2606.24391",
+      "venue": "arXiv preprint (cs.AI)",
+      "venue_rank": "preprint",
+      "first_seen": "2026-06-26",
+      "keywords": [
+        "LLM",
+        "reasoning",
+        "benchmark",
+        "diplomacy",
+        "fog of war",
+        "reliability",
+        "multi-agent"
+      ],
+      "citation_history": [
+        {
+          "date": "2026-06-26",
+          "count": 0
+        }
+      ]
+    },
+    "2606.20068": {
+      "title": "Process-Verified Reinforcement Learning for Theorem Proving via Lean",
+      "authors": [
+        "Minsu Kim",
+        "Se-Young Yun"
+      ],
+      "arxiv_id": "2606.20068",
+      "url": "https://arxiv.org/abs/2606.20068",
+      "venue": "arXiv preprint (cs.AI, cs.LG)",
+      "venue_rank": "preprint",
+      "first_seen": "2026-06-26",
+      "keywords": [
+        "LLM",
+        "reasoning",
+        "theorem proving",
+        "Lean",
+        "RLVR",
+        "GRPO",
+        "process reward"
+      ],
+      "citation_history": [
+        {
+          "date": "2026-06-26",
+          "count": 0
+        }
+      ]
     }
   },
-  "last_updated": "2026-06-25"
+  "last_updated": "2026-06-26"
 }
