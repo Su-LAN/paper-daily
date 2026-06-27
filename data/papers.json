@@ -4225,7 +4225,100 @@
           "count": 0
         }
       ]
+    },
+    "2606.19771": {
+      "title": "Beyond Entropy: Learning from Token-Level Distributional Deviations for LLM Reasoning",
+      "authors": [
+        "Xuanzhi Feng",
+        "Zhengyang Li",
+        "Zeyu Liu",
+        "Haoxi Li",
+        "Yuming Jiang",
+        "Bing Guo",
+        "Jingcai Guo",
+        "Jie Zhang",
+        "Song Guo"
+      ],
+      "arxiv_id": "2606.19771",
+      "url": "https://arxiv.org/abs/2606.19771",
+      "venue": "arXiv preprint (cs.CL, cs.LG)",
+      "venue_rank": "preprint",
+      "first_seen": "2026-06-27",
+      "keywords": [
+        "LLM",
+        "reasoning",
+        "RLVR",
+        "entropy",
+        "token-level",
+        "Jensen-Shannon"
+      ],
+      "citation_history": [
+        {
+          "date": "2026-06-27",
+          "count": 0
+        }
+      ]
+    },
+    "2606.20227": {
+      "title": "QMFOL: Benchmarking Large Language Model Reasoning via Quantifiable Monadic First-Order Logic Test Case Generation",
+      "authors": [
+        "Xinyi Zheng",
+        "Ling Shi",
+        "Tianlong Yu",
+        "Yongxin Zhao",
+        "Lorenz Goette",
+        "Kailong Wang"
+      ],
+      "arxiv_id": "2606.20227",
+      "url": "https://arxiv.org/abs/2606.20227",
+      "venue": "arXiv preprint (cs.CL, cs.AI)",
+      "venue_rank": "preprint",
+      "first_seen": "2026-06-27",
+      "keywords": [
+        "LLM",
+        "reasoning",
+        "benchmark",
+        "first-order logic",
+        "deductive reasoning",
+        "evaluation"
+      ],
+      "citation_history": [
+        {
+          "date": "2026-06-27",
+          "count": 0
+        }
+      ]
+    },
+    "2606.10532": {
+      "title": "ActiveMem: Distributed Active Memory for Long-Horizon LLM Reasoning",
+      "authors": [
+        "Yunhan Jiang",
+        "Wenbin Duan",
+        "Shasha Guo",
+        "Liang Pang",
+        "Xiaoqian Sun",
+        "Huawei Shen"
+      ],
+      "arxiv_id": "2606.10532",
+      "url": "https://arxiv.org/abs/2606.10532",
+      "venue": "arXiv preprint (cs.AI, cs.CL)",
+      "venue_rank": "preprint",
+      "first_seen": "2026-06-27",
+      "keywords": [
+        "LLM",
+        "reasoning",
+        "agent",
+        "long-horizon",
+        "memory",
+        "GAIA"
+      ],
+      "citation_history": [
+        {
+          "date": "2026-06-27",
+          "count": 0
+        }
+      ]
     }
   },
-  "last_updated": "2026-06-26"
+  "last_updated": "2026-06-27"
 }
