@@ -4562,6 +4562,92 @@
           "count": 0
         }
       ]
+    },
+    "2606.26790": {
+      "title": "OPID: On-Policy Skill Distillation for Agentic Reinforcement Learning",
+      "authors": [
+        "Shuo Yang",
+        "Jinyang Wu",
+        "Zhengxi Lu",
+        "Yuhao Shen",
+        "Fan Zhang",
+        "Lang Feng",
+        "Shuai Zhang",
+        "Haoran Luo",
+        "Zheng Lian",
+        "Zhengqi Wen",
+        "Jianhua Tao"
+      ],
+      "arxiv_id": "2606.26790",
+      "url": "https://arxiv.org/abs/2606.26790",
+      "venue": "arXiv preprint",
+      "venue_rank": "preprint",
+      "first_seen": "2026-06-28",
+      "keywords": [
+        "LLM",
+        "reasoning",
+        "agentic RL",
+        "skill distillation"
+      ],
+      "citation_history": [
+        {
+          "date": "2026-06-28",
+          "count": 0
+        }
+      ]
+    },
+    "2606.26875": {
+      "title": "Information-Aware KV Cache Compression for Long Reasoning",
+      "authors": [
+        "Jushi Kai",
+        "Zhuiri Xiao",
+        "Alexandra Birch",
+        "Zhouhan Lin"
+      ],
+      "arxiv_id": "2606.26875",
+      "url": "https://arxiv.org/abs/2606.26875",
+      "venue": "arXiv preprint",
+      "venue_rank": "preprint",
+      "first_seen": "2026-06-28",
+      "keywords": [
+        "LLM",
+        "reasoning",
+        "KV cache",
+        "long context",
+        "efficiency"
+      ],
+      "citation_history": [
+        {
+          "date": "2026-06-28",
+          "count": 0
+        }
+      ]
+    },
+    "2606.26530": {
+      "title": "DiARC: Distinguishing Positive and Negative Samples Helps Improving ARC-like Reasoning Ability of Large Language Models",
+      "authors": [
+        "Yuxuan Yang",
+        "Feiyang Li",
+        "Yile Wang"
+      ],
+      "arxiv_id": "2606.26530",
+      "url": "https://arxiv.org/abs/2606.26530",
+      "venue": "arXiv preprint",
+      "venue_rank": "preprint",
+      "first_seen": "2026-06-28",
+      "keywords": [
+        "LLM",
+        "reasoning",
+        "ARC",
+        "preference alignment",
+        "abstract reasoning"
+      ],
+      "citation_history": [
+        {
+          "date": "2026-06-28",
+          "count": 0
+        }
+      ]
     }
   },
   "last_updated": "2026-06-27"
