@@ -4904,7 +4904,95 @@
           "count": 0
         }
       ]
+    },
+    "2606.27288": {
+      "title": "When Does Combining Language Models Help? A Co-Failure Ceiling on Routing, Voting, and Mixture-of-Agents Across 67 Frontier Models",
+      "authors": [
+        "Josef Chen"
+      ],
+      "arxiv_id": "2606.27288",
+      "url": "https://arxiv.org/abs/2606.27288",
+      "venue": "arXiv preprint",
+      "venue_rank": "preprint",
+      "first_seen": "2026-06-29",
+      "keywords": [
+        "LLM",
+        "reasoning",
+        "ensemble",
+        "mixture-of-agents",
+        "routing"
+      ],
+      "citation_history": [
+        {
+          "date": "2026-06-29",
+          "count": 0
+        }
+      ]
+    },
+    "2606.26300": {
+      "title": "The Verification Horizon: No Silver Bullet for Coding Agent Rewards",
+      "authors": [
+        "Binghai Wang",
+        "Chenlong Zhang",
+        "Dayiheng Liu",
+        "Jiajun Zhang",
+        "Jiawei Chen",
+        "Mouxiang Chen",
+        "Rongyao Fang",
+        "Siyuan Zhang",
+        "Xuwu Wang",
+        "Yuheng Jing",
+        "Zeyao Ma",
+        "Zeyu Cui"
+      ],
+      "arxiv_id": "2606.26300",
+      "url": "https://arxiv.org/abs/2606.26300",
+      "venue": "arXiv preprint",
+      "venue_rank": "preprint",
+      "first_seen": "2026-06-29",
+      "keywords": [
+        "LLM",
+        "reasoning",
+        "coding agent",
+        "RL",
+        "verifier",
+        "reward"
+      ],
+      "citation_history": [
+        {
+          "date": "2026-06-29",
+          "count": 0
+        }
+      ]
+    },
+    "2606.26027": {
+      "title": "Why Multi-Step Tool-Use Reinforcement Learning Collapses and How Supervisory Signals Fix It",
+      "authors": [
+        "Yupu Hao",
+        "Zhuoran Jin",
+        "Huanxuan Liao",
+        "Kang Liu",
+        "Jun Zhao"
+      ],
+      "arxiv_id": "2606.26027",
+      "url": "https://arxiv.org/abs/2606.26027",
+      "venue": "arXiv preprint",
+      "venue_rank": "preprint",
+      "first_seen": "2026-06-29",
+      "keywords": [
+        "LLM",
+        "reasoning",
+        "tool use",
+        "agentic RL",
+        "training stability"
+      ],
+      "citation_history": [
+        {
+          "date": "2026-06-29",
+          "count": 0
+        }
+      ]
     }
   },
-  "last_updated": "2026-06-27"
+  "last_updated": "2026-06-29"
 }
