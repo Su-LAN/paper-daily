@@ -5260,6 +5260,89 @@
           "count": 0
         }
       ]
+    },
+    "2606.29296": {
+      "title": "Process Advantage Signal Shaping: A Paradigm-Agnostic Middleware for Process-Supervised RL in LLM Reasoners",
+      "authors": [
+        "Chao Wang",
+        "Hongtao Tian",
+        "Tao Yang",
+        "Yunsheng Shi",
+        "Ting Yao",
+        "Wenbo Ding"
+      ],
+      "arxiv_id": "2606.29296",
+      "url": "https://arxiv.org/abs/2606.29296",
+      "venue": "arXiv preprint",
+      "venue_rank": "Preprint",
+      "first_seen": "2026-06-30",
+      "keywords": [
+        "LLM",
+        "reasoning",
+        "RL",
+        "process supervision",
+        "GRPO"
+      ],
+      "citation_history": [
+        {
+          "date": "2026-06-30",
+          "count": 0
+        }
+      ]
+    },
+    "2606.29278": {
+      "title": "The Complexity Ceiling Benchmark: A Multi-Domain Evaluation of Sequential Reasoning Under Depth Scaling",
+      "authors": [
+        "Shubh Chapra",
+        "Dhruv Kumar",
+        "Murari Mandal",
+        "Yash Sinha"
+      ],
+      "arxiv_id": "2606.29278",
+      "url": "https://arxiv.org/abs/2606.29278",
+      "venue": "CTB Workshop @ ICML 2026",
+      "venue_rank": "CCF-A (workshop)",
+      "first_seen": "2026-06-30",
+      "keywords": [
+        "LLM",
+        "reasoning",
+        "benchmark",
+        "depth scaling"
+      ],
+      "citation_history": [
+        {
+          "date": "2026-06-30",
+          "count": 0
+        }
+      ]
+    },
+    "2606.29067": {
+      "title": "ThinkProbe: Beyond Accuracy -- Structural Profiling of Open-Ended LLM Reasoning Traces via Non-Generative Thought Graphs",
+      "authors": [
+        "Mohamed Amine Kerkouri",
+        "Simon D. Hernandez",
+        "Marouane Tliba",
+        "Yann Dauxais",
+        "Maha Ben-Fares",
+        "Pierre Holat"
+      ],
+      "arxiv_id": "2606.29067",
+      "url": "https://arxiv.org/abs/2606.29067",
+      "venue": "EMNLP 2026 (under review)",
+      "venue_rank": "CCF-B",
+      "first_seen": "2026-06-30",
+      "keywords": [
+        "LLM",
+        "reasoning",
+        "thought graphs",
+        "cognitive profiling"
+      ],
+      "citation_history": [
+        {
+          "date": "2026-06-30",
+          "count": 0
+        }
+      ]
     }
   },
   "last_updated": "2026-06-29"
