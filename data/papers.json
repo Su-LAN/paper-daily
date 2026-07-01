@@ -5623,6 +5623,97 @@
           "count": 0
         }
       ]
+    },
+    "2606.30639": {
+      "title": "Self-Evolving World Models for LLM Agent Planning",
+      "authors": [
+        "Xuan Zhang",
+        "Wenxuan Zhang",
+        "See-Kiong Ng",
+        "Yang Deng"
+      ],
+      "arxiv_id": "2606.30639",
+      "url": "https://arxiv.org/abs/2606.30639",
+      "venue": "arXiv preprint (cs.AI/cs.CL)",
+      "venue_rank": "preprint",
+      "first_seen": "2026-07-01",
+      "keywords": [
+        "LLM",
+        "reasoning",
+        "world model",
+        "agent planning"
+      ],
+      "citation_history": [
+        {
+          "date": "2026-07-01",
+          "count": 0
+        }
+      ]
+    },
+    "2606.30626": {
+      "title": "DOPD: Dual On-policy Distillation",
+      "authors": [
+        "Xinlei Yu",
+        "Gen Li",
+        "Qingyi Si",
+        "Guibin Zhang",
+        "Yuqi Xu",
+        "Congcong Wang",
+        "Shuai Dong",
+        "Kaiwen Tuo",
+        "Xiangyu Zeng",
+        "Kaituo Feng",
+        "Qunzhong Wang",
+        "Yang Shi",
+        "Xiaobin Hu",
+        "Xiangyu Yue",
+        "Jiaqi Wang",
+        "Shuicheng Yan"
+      ],
+      "arxiv_id": "2606.30626",
+      "url": "https://arxiv.org/abs/2606.30626",
+      "venue": "arXiv preprint (cs.AI)",
+      "venue_rank": "preprint",
+      "first_seen": "2026-07-01",
+      "keywords": [
+        "LLM",
+        "reasoning",
+        "on-policy distillation",
+        "advantage"
+      ],
+      "citation_history": [
+        {
+          "date": "2026-07-01",
+          "count": 0
+        }
+      ]
+    },
+    "2606.30627": {
+      "title": "Pessimism's Paradox: Conservative Offline Training Amplifies Reward Hacking During Online Adaptation in Reasoning Models",
+      "authors": [
+        "Subramanyam Sahoo",
+        "Aman Chadha",
+        "Vinija Jain",
+        "Divya Chaudhary"
+      ],
+      "arxiv_id": "2606.30627",
+      "url": "https://arxiv.org/abs/2606.30627",
+      "venue": "ICML 2026 Workshop on Decision-Making from Offline Datasets to Online Adaptation",
+      "venue_rank": "workshop",
+      "first_seen": "2026-07-01",
+      "keywords": [
+        "LLM",
+        "reasoning",
+        "reward hacking",
+        "DPO",
+        "offline-to-online"
+      ],
+      "citation_history": [
+        {
+          "date": "2026-07-01",
+          "count": 0
+        }
+      ]
     }
   },
   "last_updated": "2026-06-30"
