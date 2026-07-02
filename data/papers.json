@@ -6006,7 +6006,93 @@
           "count": 0
         }
       ]
+    },
+    "2606.05859": {
+      "title": "TARPO: Token-Wise Latent-Explicit Reasoning via Action-Routing Policy Optimization",
+      "authors": [
+        "Liting Zhang",
+        "Shiwan Zhao",
+        "Xuyang Zhao",
+        "Zichen Xu",
+        "Jianye Wang",
+        "Qicheng Li"
+      ],
+      "arxiv_id": "2606.05859",
+      "url": "https://arxiv.org/abs/2606.05859",
+      "venue": "arXiv 2026",
+      "venue_rank": "preprint",
+      "first_seen": "2026-07-02",
+      "keywords": [
+        "LLM",
+        "reasoning",
+        "latent reasoning",
+        "chain-of-thought",
+        "policy optimization"
+      ],
+      "citation_history": [
+        {
+          "date": "2026-07-02",
+          "count": 0
+        }
+      ]
+    },
+    "2606.23404": {
+      "title": "ReasoningLens: Hierarchical Visualization and Diagnostic Auditing for Large Reasoning Models",
+      "authors": [
+        "Jun Zhang",
+        "Jiasheng Zheng",
+        "Boxi Cao",
+        "Yaojie Lu",
+        "Hongyu Lin",
+        "Jia Zheng",
+        "Xianpei Han",
+        "Le Sun"
+      ],
+      "arxiv_id": "2606.23404",
+      "url": "https://arxiv.org/abs/2606.23404",
+      "venue": "arXiv 2026",
+      "venue_rank": "preprint",
+      "first_seen": "2026-07-02",
+      "keywords": [
+        "LLM",
+        "reasoning",
+        "interpretability",
+        "long CoT",
+        "auditing"
+      ],
+      "citation_history": [
+        {
+          "date": "2026-07-02",
+          "count": 0
+        }
+      ]
+    },
+    "2606.06840": {
+      "title": "Characterize Then Distill: Mechanistic Reasoning in Large Output Spaces",
+      "authors": [
+        "Deb Roy",
+        "Byron C. Wallace",
+        "J. Aslam"
+      ],
+      "arxiv_id": "2606.06840",
+      "url": "https://arxiv.org/abs/2606.06840",
+      "venue": "arXiv 2026",
+      "venue_rank": "preprint",
+      "first_seen": "2026-07-02",
+      "keywords": [
+        "LLM",
+        "reasoning",
+        "distillation",
+        "multi-label",
+        "mechanistic interpretability"
+      ],
+      "citation_history": [
+        {
+          "date": "2026-07-02",
+          "count": 0
+        }
+      ]
     }
   },
-  "last_updated": "2026-06-30"
+  "last_updated": "2026-07-02"
 }
