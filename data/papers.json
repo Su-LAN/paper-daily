@@ -7151,7 +7151,180 @@
           "count": 0
         }
       ]
+    },
+    "2607.00461": {
+      "title": "Multimodal Continuous Reasoning via Asymmetric Mutual Variational Learning",
+      "authors": [
+        "Shijie Li",
+        "Yilin Gao",
+        "Siyuan Yang",
+        "Tieyuan Chen",
+        "Chaofan Gan",
+        "Zhihao He",
+        "Zicheng Zhao",
+        "Yuyu Guo",
+        "Weiyao Lin",
+        "Hang Yu"
+      ],
+      "arxiv_id": "2607.00461",
+      "url": "https://arxiv.org/abs/2607.00461",
+      "venue": "arXiv 2026",
+      "venue_rank": "preprint",
+      "first_seen": "2026-07-09",
+      "keywords": [
+        "LLM",
+        "reasoning",
+        "multimodal",
+        "latent reasoning",
+        "variational learning",
+        "continuous reasoning"
+      ],
+      "citation_history": [
+        {
+          "date": "2026-07-09",
+          "count": 0
+        }
+      ]
+    },
+    "2607.01237": {
+      "title": "KARA: Efficient Reasoning LLM Serving via Sliding-Window KV Cache Compression",
+      "authors": [
+        "Shen Han",
+        "Yuyang Wu",
+        "Junpu Yu",
+        "Olexandr Isayev"
+      ],
+      "arxiv_id": "2607.01237",
+      "url": "https://arxiv.org/abs/2607.01237",
+      "venue": "arXiv 2026",
+      "venue_rank": "preprint",
+      "first_seen": "2026-07-09",
+      "keywords": [
+        "LLM",
+        "reasoning",
+        "KV cache",
+        "serving",
+        "efficiency",
+        "chain-of-thought"
+      ],
+      "citation_history": [
+        {
+          "date": "2026-07-09",
+          "count": 0
+        }
+      ]
+    },
+    "2607.05029": {
+      "title": "Your Agent's Memories Are Not Its Own: Forged Reasoning Attacks on LLM Agent Memory and Defenses",
+      "authors": [
+        "Neeraj Karamchandani",
+        "Piyush Nagasubramaniam",
+        "Sencun Zhu",
+        "Dinghao Wu"
+      ],
+      "arxiv_id": "2607.05029",
+      "url": "https://arxiv.org/abs/2607.05029",
+      "venue": "arXiv 2026",
+      "venue_rank": "preprint",
+      "first_seen": "2026-07-09",
+      "keywords": [
+        "LLM",
+        "reasoning",
+        "agents",
+        "memory",
+        "security",
+        "attack"
+      ],
+      "citation_history": [
+        {
+          "date": "2026-07-09",
+          "count": 0
+        }
+      ]
+    },
+    "2607.05391": {
+      "title": "LLM-as-a-Verifier: A General-Purpose Verification Framework",
+      "authors": [
+        "Jacky Kwok",
+        "Shulu Li",
+        "Pranav Atreya",
+        "Yuejiang Liu",
+        "Yixing Jiang",
+        "Chelsea Finn",
+        "Marco Pavone",
+        "Ion Stoica",
+        "Azalia Mirhoseini"
+      ],
+      "arxiv_id": "2607.05391",
+      "url": "https://arxiv.org/abs/2607.05391",
+      "venue": "arXiv 2026",
+      "venue_rank": "preprint",
+      "first_seen": "2026-07-10",
+      "keywords": [
+        "LLM",
+        "reasoning",
+        "verification",
+        "agents",
+        "test-time scaling",
+        "process feedback"
+      ],
+      "citation_history": [
+        {
+          "date": "2026-07-10",
+          "count": 0
+        }
+      ]
+    },
+    "2607.07690": {
+      "title": "Agon: Competitive Cross-Model RL with Implicit Rival Grading of Reasoning",
+      "authors": [
+        "Vladislav Beliaev"
+      ],
+      "arxiv_id": "2607.07690",
+      "url": "https://arxiv.org/abs/2607.07690",
+      "venue": "arXiv 2026",
+      "venue_rank": "preprint",
+      "first_seen": "2026-07-10",
+      "keywords": [
+        "LLM",
+        "reasoning",
+        "reinforcement learning",
+        "RLVR",
+        "GRPO",
+        "multi-agent competition"
+      ],
+      "citation_history": [
+        {
+          "date": "2026-07-10",
+          "count": 0
+        }
+      ]
+    },
+    "2607.07674": {
+      "title": "Max Out GRPO Signal: Adaptive Trace Prefix Control for Hard Reasoning Problems",
+      "authors": [
+        "Vladislav Beliaev"
+      ],
+      "arxiv_id": "2607.07674",
+      "url": "https://arxiv.org/abs/2607.07674",
+      "venue": "arXiv 2026",
+      "venue_rank": "preprint",
+      "first_seen": "2026-07-10",
+      "keywords": [
+        "LLM",
+        "reasoning",
+        "reinforcement learning",
+        "GRPO",
+        "curriculum learning",
+        "hard problems"
+      ],
+      "citation_history": [
+        {
+          "date": "2026-07-10",
+          "count": 0
+        }
+      ]
     }
   },
-  "last_updated": "2026-07-06"
+  "last_updated": "2026-07-10"
 }
