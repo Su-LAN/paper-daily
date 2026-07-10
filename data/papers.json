@@ -7700,7 +7700,93 @@
           "count": 0
         }
       ]
+    },
+    "2607.07976": {
+      "title": "When Implausible Tokens Get Reinforced: Tail-Aware Credit Calibration for LLM Reinforcement Learning",
+      "authors": [
+        "Xiuyi Lou",
+        "Zicheng Xu",
+        "Yu-Neng Chuang",
+        "Hoang Anh Duy Le",
+        "Zhaozhuo Xu",
+        "Guanchu Wang",
+        "Vladimir Braverman"
+      ],
+      "arxiv_id": "2607.07976",
+      "url": "https://arxiv.org/abs/2607.07976",
+      "venue": "arXiv 2026",
+      "venue_rank": "preprint",
+      "first_seen": "2026-07-11",
+      "keywords": [
+        "LLM",
+        "reasoning",
+        "reinforcement learning",
+        "credit assignment",
+        "RLVR",
+        "token-level"
+      ],
+      "citation_history": [
+        {
+          "date": "2026-07-11",
+          "count": 0
+        }
+      ]
+    },
+    "2607.07508": {
+      "title": "Single-Rollout Asynchronous Optimization for Agentic Reinforcement Learning",
+      "authors": [
+        "Zhenyu Hou",
+        "Yujiang Li",
+        "Jie Tang",
+        "Yuxiao Dong"
+      ],
+      "arxiv_id": "2607.07508",
+      "url": "https://arxiv.org/abs/2607.07508",
+      "venue": "arXiv 2026",
+      "venue_rank": "preprint",
+      "first_seen": "2026-07-11",
+      "keywords": [
+        "LLM",
+        "reasoning",
+        "reinforcement learning",
+        "agentic RL",
+        "asynchronous training",
+        "post-training"
+      ],
+      "citation_history": [
+        {
+          "date": "2026-07-11",
+          "count": 0
+        }
+      ]
+    },
+    "2607.08017": {
+      "title": "Can We Trust LLM's Logic? Quantifying Uncertainty, Coherence, and Robustness via a Graph-Based Framework",
+      "authors": [
+        "Riccardo Revalor",
+        "Jalees Rehman",
+        "Debjit Pal"
+      ],
+      "arxiv_id": "2607.08017",
+      "url": "https://arxiv.org/abs/2607.08017",
+      "venue": "arXiv 2026",
+      "venue_rank": "preprint",
+      "first_seen": "2026-07-11",
+      "keywords": [
+        "LLM",
+        "reasoning",
+        "uncertainty quantification",
+        "self-consistency",
+        "evaluation",
+        "chain-of-thought"
+      ],
+      "citation_history": [
+        {
+          "date": "2026-07-11",
+          "count": 0
+        }
+      ]
     }
   },
-  "last_updated": "2026-07-10"
+  "last_updated": "2026-07-11"
 }
