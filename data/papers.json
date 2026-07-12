@@ -8654,7 +8654,87 @@
           "count": 0
         }
       ]
+    },
+    "2607.06974": {
+      "title": "MILES: Modular Instruction Memory with Learnable Selection for Self-Improving LLM Reasoning",
+      "authors": [
+        "Ruilin Tong",
+        "Dong Gong"
+      ],
+      "arxiv_id": "2607.06974",
+      "url": "https://arxiv.org/abs/2607.06974",
+      "venue": "arXiv 2026",
+      "venue_rank": "preprint",
+      "first_seen": "2026-07-13",
+      "keywords": [
+        "LLM",
+        "reasoning",
+        "memory",
+        "self-improvement",
+        "learnable retrieval"
+      ],
+      "citation_history": [
+        {
+          "date": "2026-07-13",
+          "count": 0
+        }
+      ]
+    },
+    "2607.08116": {
+      "title": "MORES: Mobile Reasoning-as-a-Service via Distributed LLM Inference-Time Scaling",
+      "authors": [
+        "Guanchen Liu",
+        "Hongyang Du",
+        "Kaibin Huang"
+      ],
+      "arxiv_id": "2607.08116",
+      "url": "https://arxiv.org/abs/2607.08116",
+      "venue": "arXiv 2026",
+      "venue_rank": "preprint",
+      "first_seen": "2026-07-13",
+      "keywords": [
+        "LLM",
+        "reasoning",
+        "inference-time scaling",
+        "edge computing",
+        "distributed inference",
+        "reinforcement learning"
+      ],
+      "citation_history": [
+        {
+          "date": "2026-07-13",
+          "count": 0
+        }
+      ]
+    },
+    "2607.04572": {
+      "title": "Detecting Answer-Driven Reasoning in LLM-Based Educational Tutors via Truncated Chain-of-Thought Auditing",
+      "authors": [
+        "Bonan Shen",
+        "Dingyan Shang",
+        "Youting Wang",
+        "Tao Ning"
+      ],
+      "arxiv_id": "2607.04572",
+      "url": "https://arxiv.org/abs/2607.04572",
+      "venue": "arXiv 2026",
+      "venue_rank": "preprint",
+      "first_seen": "2026-07-13",
+      "keywords": [
+        "LLM",
+        "reasoning",
+        "chain-of-thought",
+        "faithfulness",
+        "auditing",
+        "education"
+      ],
+      "citation_history": [
+        {
+          "date": "2026-07-13",
+          "count": 0
+        }
+      ]
     }
   },
-  "last_updated": "2026-07-12"
+  "last_updated": "2026-07-13"
 }
