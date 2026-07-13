@@ -9146,7 +9146,92 @@
           "count": 0
         }
       ]
+    },
+    "2607.08775": {
+      "title": "HALO: Hybrid Adaptive Latent Reasoning for Language Models",
+      "authors": [
+        "Micah Zhang"
+      ],
+      "arxiv_id": "2607.08775",
+      "url": "https://arxiv.org/abs/2607.08775",
+      "venue": "arXiv 2026",
+      "venue_rank": "preprint",
+      "first_seen": "2026-07-14",
+      "keywords": [
+        "LLM",
+        "reasoning",
+        "latent reasoning",
+        "adaptive computation",
+        "test-time compute"
+      ],
+      "citation_history": [
+        {
+          "date": "2026-07-14",
+          "count": 0
+        }
+      ]
+    },
+    "2607.07646": {
+      "title": "RL Post-Training Builds Compositional Reasoning Strategies",
+      "authors": [
+        "Azwar Abdulsalam",
+        "Nishil Patel",
+        "Andrew Saxe"
+      ],
+      "arxiv_id": "2607.07646",
+      "url": "https://arxiv.org/abs/2607.07646",
+      "venue": "ICML 2026 Workshop (Compositional Learning)",
+      "venue_rank": "CCF-A (workshop)",
+      "first_seen": "2026-07-14",
+      "keywords": [
+        "LLM",
+        "reasoning",
+        "reinforcement learning",
+        "post-training",
+        "compositionality",
+        "interpretability"
+      ],
+      "citation_history": [
+        {
+          "date": "2026-07-14",
+          "count": 0
+        }
+      ]
+    },
+    "2607.08572": {
+      "title": "Switch-Reasoner: Learn When to Think in Multitask Mixtures via Reinforcement Learning",
+      "authors": [
+        "Yiyang Fang",
+        "Pei Fu",
+        "Jinjie Li",
+        "Jian Liang",
+        "Wenke Huang",
+        "Ruijie Luo",
+        "Shaojie Zhang",
+        "Jian Luan",
+        "Yi R. Fung",
+        "Mang Ye"
+      ],
+      "arxiv_id": "2607.08572",
+      "url": "https://arxiv.org/abs/2607.08572",
+      "venue": "arXiv 2026",
+      "venue_rank": "preprint",
+      "first_seen": "2026-07-14",
+      "keywords": [
+        "LLM",
+        "reasoning",
+        "adaptive thinking",
+        "reinforcement learning",
+        "multimodal",
+        "efficiency"
+      ],
+      "citation_history": [
+        {
+          "date": "2026-07-14",
+          "count": 0
+        }
+      ]
     }
   },
-  "last_updated": "2026-07-13"
+  "last_updated": "2026-07-14"
 }
