@@ -9655,7 +9655,94 @@
           "count": 0
         }
       ]
+    },
+    "2607.10139": {
+      "title": "LLMs as a Jury: Cross-Model Consensus Can Outperform Process Reward Models for LLM Reasoning",
+      "authors": [
+        "Ning Liu"
+      ],
+      "arxiv_id": "2607.10139",
+      "url": "https://arxiv.org/abs/2607.10139",
+      "venue": "arXiv 2026",
+      "venue_rank": "preprint",
+      "first_seen": "2026-07-15",
+      "keywords": [
+        "LLM",
+        "reasoning",
+        "test-time scaling",
+        "cross-model consensus",
+        "process reward model",
+        "verification"
+      ],
+      "citation_history": [
+        {
+          "date": "2026-07-15",
+          "count": 0
+        }
+      ]
+    },
+    "2607.09693": {
+      "title": "Depth-Entropy Guided Sampling for Training-Free LLM Reasoning",
+      "authors": [
+        "Zibin Meng",
+        "Peng Xie",
+        "Kani Chen"
+      ],
+      "arxiv_id": "2607.09693",
+      "url": "https://arxiv.org/abs/2607.09693",
+      "venue": "arXiv 2026",
+      "venue_rank": "preprint",
+      "first_seen": "2026-07-15",
+      "keywords": [
+        "LLM",
+        "reasoning",
+        "training-free",
+        "entropy",
+        "MCMC sampling",
+        "test-time compute"
+      ],
+      "citation_history": [
+        {
+          "date": "2026-07-15",
+          "count": 0
+        }
+      ]
+    },
+    "2607.05089": {
+      "title": "TimeThink: Reasoning with Time for Video LLMs",
+      "authors": [
+        "Handong Li",
+        "Longteng Guo",
+        "Zikang Liu",
+        "Dongze Hao",
+        "Yepeng Tang",
+        "Zijia Zhao",
+        "Jie Jiang",
+        "Zhiwei Jin",
+        "Chen Chen",
+        "Haonan Lu",
+        "Jing Liu"
+      ],
+      "arxiv_id": "2607.05089",
+      "url": "https://arxiv.org/abs/2607.05089",
+      "venue": "arXiv 2026",
+      "venue_rank": "preprint",
+      "first_seen": "2026-07-15",
+      "keywords": [
+        "LLM",
+        "reasoning",
+        "video",
+        "reinforcement learning",
+        "process reward",
+        "temporal grounding"
+      ],
+      "citation_history": [
+        {
+          "date": "2026-07-15",
+          "count": 0
+        }
+      ]
     }
   },
-  "last_updated": "2026-07-14"
+  "last_updated": "2026-07-15"
 }
