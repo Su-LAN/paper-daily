@@ -10178,7 +10178,92 @@
           "count": 0
         }
       ]
+    },
+    "2607.12733": {
+      "title": "LLMs Can See the Smoke but not the Fire: Evaluating Abductive Reasoning with Elenchos",
+      "authors": [
+        "Julius Steiglechner",
+        "Lucas Mahler",
+        "Gabriele Lohmann"
+      ],
+      "arxiv_id": "2607.12733",
+      "url": "https://arxiv.org/abs/2607.12733",
+      "venue": "arXiv 2026",
+      "venue_rank": "preprint",
+      "first_seen": "2026-07-16",
+      "keywords": [
+        "LLM",
+        "reasoning",
+        "abductive reasoning",
+        "evaluation",
+        "formal systems",
+        "lambda calculus"
+      ],
+      "citation_history": [
+        {
+          "date": "2026-07-16",
+          "count": 0
+        }
+      ]
+    },
+    "2607.12490": {
+      "title": "When is LLM-Based Program Reasoning Correct? A Completion Semantics for LLM-Based Code Inference",
+      "authors": [
+        "Zhiyuan Liu",
+        "Yihe Li",
+        "Trevor E. Carlson",
+        "Huiyan Wang",
+        "Ruijie Meng",
+        "Gregory J. Duck"
+      ],
+      "arxiv_id": "2607.12490",
+      "url": "https://arxiv.org/abs/2607.12490",
+      "venue": "arXiv 2026",
+      "venue_rank": "preprint",
+      "first_seen": "2026-07-16",
+      "keywords": [
+        "LLM",
+        "reasoning",
+        "program analysis",
+        "formal semantics",
+        "code inference",
+        "bug detection"
+      ],
+      "citation_history": [
+        {
+          "date": "2026-07-16",
+          "count": 0
+        }
+      ]
+    },
+    "2607.11258": {
+      "title": "TreeThink: A Modular Tree Search Library for Mathematical Reasoning with LLMs",
+      "authors": [
+        "Burak S. Akbudak",
+        "Zeynel A. Uluşan",
+        "Can S. Erer",
+        "Gözde Gül Şahin"
+      ],
+      "arxiv_id": "2607.11258",
+      "url": "https://arxiv.org/abs/2607.11258",
+      "venue": "arXiv 2026",
+      "venue_rank": "preprint",
+      "first_seen": "2026-07-16",
+      "keywords": [
+        "LLM",
+        "reasoning",
+        "tree search",
+        "theorem proving",
+        "mathematical reasoning",
+        "open-source library"
+      ],
+      "citation_history": [
+        {
+          "date": "2026-07-16",
+          "count": 0
+        }
+      ]
     }
   },
-  "last_updated": "2026-07-15"
+  "last_updated": "2026-07-16"
 }
