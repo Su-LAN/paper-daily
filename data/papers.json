@@ -11342,7 +11342,90 @@
           "count": 0
         }
       ]
+    },
+    "2607.14552": {
+      "title": "Answer-Conditioned Chains of Thought Degrade Verifiable-Reasoning Distillation in Large Language Models",
+      "authors": [
+        "Jungseob Lee",
+        "Seungyoon Lee",
+        "Suhyune Son",
+        "Dongyub Jude Lee",
+        "Sungbin Han",
+        "Sugyeong Eo",
+        "Heuiseok Lim"
+      ],
+      "arxiv_id": "2607.14552",
+      "url": "https://arxiv.org/abs/2607.14552",
+      "venue": "arXiv 2026",
+      "venue_rank": "preprint",
+      "first_seen": "2026-07-19",
+      "keywords": [
+        "LLM",
+        "reasoning",
+        "chain-of-thought",
+        "distillation",
+        "data quality"
+      ],
+      "citation_history": [
+        {
+          "date": "2026-07-19",
+          "count": 0
+        }
+      ]
+    },
+    "2607.11089": {
+      "title": "OS-Pruner: Pruning Chains-of-Thought of Reasoning Models via Optimal Stopping",
+      "authors": [
+        "Mohammed Ehab",
+        "Aymane El Gadarri",
+        "Vivek F. Farias",
+        "Adam Jozefiak",
+        "Ciamac C. Moallemi"
+      ],
+      "arxiv_id": "2607.11089",
+      "url": "https://arxiv.org/abs/2607.11089",
+      "venue": "arXiv 2026",
+      "venue_rank": "preprint",
+      "first_seen": "2026-07-19",
+      "keywords": [
+        "LLM",
+        "reasoning",
+        "chain-of-thought",
+        "efficiency",
+        "optimal stopping"
+      ],
+      "citation_history": [
+        {
+          "date": "2026-07-19",
+          "count": 0
+        }
+      ]
+    },
+    "2607.11266": {
+      "title": "Valid ≠ Necessary: Diagnosing Latent Inefficiency in Chain-of-Thought",
+      "authors": [
+        "Daeyeop Lee",
+        "Hwanjo Yu"
+      ],
+      "arxiv_id": "2607.11266",
+      "url": "https://arxiv.org/abs/2607.11266",
+      "venue": "arXiv 2026",
+      "venue_rank": "preprint",
+      "first_seen": "2026-07-19",
+      "keywords": [
+        "LLM",
+        "reasoning",
+        "chain-of-thought",
+        "efficiency",
+        "evaluation"
+      ],
+      "citation_history": [
+        {
+          "date": "2026-07-19",
+          "count": 0
+        }
+      ]
     }
   },
-  "last_updated": "2026-07-18"
+  "last_updated": "2026-07-19"
 }
