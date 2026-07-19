@@ -11833,7 +11833,94 @@
           "count": 0
         }
       ]
+    },
+    "2607.14242": {
+      "title": "Implicit Reasoning Steering via Concept Chaining",
+      "authors": [
+        "Xiao Ye",
+        "Sanika Chavan",
+        "Yuxi Huang",
+        "Shahriar Kabir Nahin",
+        "Muhao Chen",
+        "Anshuman Chhabra",
+        "Ben Zhou"
+      ],
+      "arxiv_id": "2607.14242",
+      "url": "https://arxiv.org/abs/2607.14242",
+      "venue": "arXiv 2026",
+      "venue_rank": "preprint",
+      "first_seen": "2026-07-20",
+      "keywords": [
+        "LLM",
+        "reasoning",
+        "steering",
+        "robustness",
+        "security"
+      ],
+      "citation_history": [
+        {
+          "date": "2026-07-20",
+          "count": 0
+        }
+      ]
+    },
+    "2607.14895": {
+      "title": "Leveraging Instruction Tuning and Merging for Reasoning Model Adaptation",
+      "authors": [
+        "Yu-Du Feng",
+        "Niels Mündler-Sasahara",
+        "Mark Vero",
+        "Martin Vechev"
+      ],
+      "arxiv_id": "2607.14895",
+      "url": "https://arxiv.org/abs/2607.14895",
+      "venue": "arXiv 2026",
+      "venue_rank": "preprint",
+      "first_seen": "2026-07-20",
+      "keywords": [
+        "LLM",
+        "reasoning",
+        "instruction tuning",
+        "model merging",
+        "adaptation"
+      ],
+      "citation_history": [
+        {
+          "date": "2026-07-20",
+          "count": 0
+        }
+      ]
+    },
+    "2607.14049": {
+      "title": "Deep Interaction: An Efficient Human-AI Interaction Method for Large Reasoning Models",
+      "authors": [
+        "Hefeng Zhou",
+        "Jinxuan Zhang",
+        "Jiong Lou",
+        "Yuxin Liu",
+        "Chaochao Lu",
+        "Jingjing Qu",
+        "Jie Li"
+      ],
+      "arxiv_id": "2607.14049",
+      "url": "https://arxiv.org/abs/2607.14049",
+      "venue": "arXiv 2026",
+      "venue_rank": "preprint",
+      "first_seen": "2026-07-20",
+      "keywords": [
+        "LLM",
+        "reasoning",
+        "human-AI interaction",
+        "chain-of-thought",
+        "efficiency"
+      ],
+      "citation_history": [
+        {
+          "date": "2026-07-20",
+          "count": 0
+        }
+      ]
     }
   },
-  "last_updated": "2026-07-19"
+  "last_updated": "2026-07-20"
 }
