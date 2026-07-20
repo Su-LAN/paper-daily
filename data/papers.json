@@ -12352,7 +12352,94 @@
           "count": 0
         }
       ]
+    },
+    "2607.16097": {
+      "title": "Understanding Reasoning from Pretraining to Post-Training",
+      "authors": [
+        "Jingyan Shen",
+        "Ang Li",
+        "Salman Rahman",
+        "Yifan Sun",
+        "Micah Goldblum",
+        "Matus Telgarsky",
+        "Pavel Izmailov"
+      ],
+      "arxiv_id": "2607.16097",
+      "url": "https://arxiv.org/abs/2607.16097",
+      "venue": "arXiv 2026",
+      "venue_rank": "preprint",
+      "first_seen": "2026-07-21",
+      "keywords": [
+        "LLM",
+        "reasoning",
+        "pretraining",
+        "reinforcement learning",
+        "scaling"
+      ],
+      "citation_history": [
+        {
+          "date": "2026-07-21",
+          "count": 0
+        }
+      ]
+    },
+    "2607.15281": {
+      "title": "Causal-Audit: Explicit and Auditable Graph-based Reasoning via Target-Aware Causal Chain Construction",
+      "authors": [
+        "Su Lan",
+        "Xuefei Yin",
+        "Yanming Zhu",
+        "Alan Wee-Chung Liew"
+      ],
+      "arxiv_id": "2607.15281",
+      "url": "https://arxiv.org/abs/2607.15281",
+      "venue": "ACL 2026",
+      "venue_rank": "CCF-A",
+      "first_seen": "2026-07-21",
+      "keywords": [
+        "LLM",
+        "reasoning",
+        "causal",
+        "graph",
+        "interpretability"
+      ],
+      "citation_history": [
+        {
+          "date": "2026-07-21",
+          "count": 0
+        }
+      ]
+    },
+    "2607.15736": {
+      "title": "Better Starts, Better Ends: Bootstrapped Iterative Self-Reasoning Distillation for Compressed Reasoning",
+      "authors": [
+        "Leichao Dong",
+        "Dongxu Zhang",
+        "Yiding Sun",
+        "Qirui Wang",
+        "Yuhan Wang",
+        "Lin Chen",
+        "Jihua Zhu"
+      ],
+      "arxiv_id": "2607.15736",
+      "url": "https://arxiv.org/abs/2607.15736",
+      "venue": "arXiv 2026",
+      "venue_rank": "preprint",
+      "first_seen": "2026-07-21",
+      "keywords": [
+        "LLM",
+        "reasoning",
+        "distillation",
+        "chain-of-thought",
+        "efficiency"
+      ],
+      "citation_history": [
+        {
+          "date": "2026-07-21",
+          "count": 0
+        }
+      ]
     }
   },
-  "last_updated": "2026-07-20"
+  "last_updated": "2026-07-21"
 }
