@@ -11490,6 +11490,10 @@
         {
           "date": "2026-07-20",
           "count": 0
+        },
+        {
+          "date": "2026-07-22",
+          "count": 0
         }
       ]
     },
@@ -11548,6 +11552,10 @@
         },
         {
           "date": "2026-07-19",
+          "count": 0
+        },
+        {
+          "date": "2026-07-22",
           "count": 0
         }
       ]
@@ -12361,6 +12369,10 @@
         {
           "date": "2026-07-20",
           "count": 0
+        },
+        {
+          "date": "2026-07-22",
+          "count": 0
         }
       ]
     },
@@ -12520,6 +12532,10 @@
         },
         {
           "date": "2026-07-19",
+          "count": 0
+        },
+        {
+          "date": "2026-07-22",
           "count": 0
         }
       ]
@@ -12938,6 +12954,89 @@
           "date": "2026-07-21",
           "count": 0
         },
+        {
+          "date": "2026-07-22",
+          "count": 0
+        }
+      ]
+    },
+    "2607.17674": {
+      "title": "Uncovering Latent Reasoning Strategies in Language Models",
+      "authors": [
+        "Awni Altabaa",
+        "John Lafferty"
+      ],
+      "arxiv_id": "2607.17674",
+      "url": "https://arxiv.org/abs/2607.17674",
+      "venue": "arXiv 2026",
+      "venue_rank": "preprint",
+      "first_seen": "2026-07-22",
+      "keywords": [
+        "LLM",
+        "reasoning",
+        "latent strategies",
+        "interpretability",
+        "variational inference"
+      ],
+      "citation_history": [
+        {
+          "date": "2026-07-22",
+          "count": 0
+        }
+      ]
+    },
+    "2607.18100": {
+      "title": "Can We Break LLMs Out of Self-Loops? Fine-Grained Reasoning Control with Activation Steering",
+      "authors": [
+        "Sheldon Yu",
+        "Tong Yu",
+        "Xunyi Jiang",
+        "Rohan Surana",
+        "Gagan Mundada",
+        "Sungchul Kim",
+        "Lina Yao",
+        "Julian McAuley",
+        "Junda Wu"
+      ],
+      "arxiv_id": "2607.18100",
+      "url": "https://arxiv.org/abs/2607.18100",
+      "venue": "arXiv 2026",
+      "venue_rank": "preprint",
+      "first_seen": "2026-07-22",
+      "keywords": [
+        "LLM",
+        "reasoning",
+        "activation steering",
+        "inference-time control",
+        "self-loops"
+      ],
+      "citation_history": [
+        {
+          "date": "2026-07-22",
+          "count": 0
+        }
+      ]
+    },
+    "2607.17266": {
+      "title": "Debate-on-Graph: Reliable and Adaptive Reasoning of Large Language Model on Uncertain Knowledge Graph",
+      "authors": [
+        "Peiji Yu",
+        "Xin Chen",
+        "Tianxing Wu"
+      ],
+      "arxiv_id": "2607.17266",
+      "url": "https://arxiv.org/abs/2607.17266",
+      "venue": "ECML-PKDD 2026",
+      "venue_rank": "CORE-A",
+      "first_seen": "2026-07-22",
+      "keywords": [
+        "LLM",
+        "reasoning",
+        "knowledge graph",
+        "multi-agent debate",
+        "uncertainty"
+      ],
+      "citation_history": [
         {
           "date": "2026-07-22",
           "count": 0
