@@ -7142,6 +7142,10 @@
         {
           "date": "2026-07-22",
           "count": 1
+        },
+        {
+          "date": "2026-07-24",
+          "count": 1
         }
       ]
     },
@@ -8634,6 +8638,10 @@
         {
           "date": "2026-07-22",
           "count": 1
+        },
+        {
+          "date": "2026-07-24",
+          "count": 1
         }
       ]
     },
@@ -8731,6 +8739,10 @@
         },
         {
           "date": "2026-07-22",
+          "count": 0
+        },
+        {
+          "date": "2026-07-24",
           "count": 0
         }
       ]
@@ -10958,6 +10970,10 @@
         },
         {
           "date": "2026-07-22",
+          "count": 0
+        },
+        {
+          "date": "2026-07-24",
           "count": 0
         }
       ]
@@ -13558,7 +13574,96 @@
           "count": 0
         }
       ]
+    },
+    "2607.19962": {
+      "title": "EvoThink: Evolving Thinking in Large Reasoning Models via Self-Pruning and Aha-Moment Preference Optimization",
+      "authors": [
+        "Xinbang Dai",
+        "Zheyu Xin",
+        "Huikang Hu",
+        "Lin Ren",
+        "Rihui Jin",
+        "Guohui Xiao",
+        "Guilin Qi",
+        "Kuicai Dong",
+        "Zhaocheng Du",
+        "Yuyang Zhang"
+      ],
+      "arxiv_id": "2607.19962",
+      "url": "https://arxiv.org/abs/2607.19962",
+      "venue": "IJCAI 2026",
+      "venue_rank": "CCF-A",
+      "first_seen": "2026-07-24",
+      "keywords": [
+        "LLM",
+        "reasoning",
+        "overthinking",
+        "self-pruning",
+        "preference optimization"
+      ],
+      "citation_history": [
+        {
+          "date": "2026-07-24",
+          "count": 0
+        }
+      ]
+    },
+    "2607.18915": {
+      "title": "Reasoning Error from Known Fact: Step-Level Self-Consistency Group Relative Policy Optimization for LLM",
+      "authors": [
+        "Xiaomeng Hu",
+        "Jiaqi Hu",
+        "Hao Chen",
+        "Qi Zhang",
+        "Zhanming Shen",
+        "Wentao Ye",
+        "Junbo Zhao"
+      ],
+      "arxiv_id": "2607.18915",
+      "url": "https://arxiv.org/abs/2607.18915",
+      "venue": "arXiv 2026",
+      "venue_rank": "preprint",
+      "first_seen": "2026-07-24",
+      "keywords": [
+        "LLM",
+        "reasoning",
+        "hallucination",
+        "reinforcement learning",
+        "GRPO"
+      ],
+      "citation_history": [
+        {
+          "date": "2026-07-24",
+          "count": 0
+        }
+      ]
+    },
+    "2607.19523": {
+      "title": "When Reasoning Narrows the Move: Diversity Collapse in LLM Game Play",
+      "authors": [
+        "Junyi Sha",
+        "Renfei Tan",
+        "David Simchi-Levi"
+      ],
+      "arxiv_id": "2607.19523",
+      "url": "https://arxiv.org/abs/2607.19523",
+      "venue": "arXiv 2026",
+      "venue_rank": "preprint",
+      "first_seen": "2026-07-24",
+      "keywords": [
+        "LLM",
+        "reasoning",
+        "diversity collapse",
+        "SFT",
+        "decision-making"
+      ],
+      "citation_history": [
+        {
+          "date": "2026-07-24",
+          "count": 0
+        }
+      ]
     }
   },
-  "last_updated": "2026-07-23"
+  "last_updated": "2026-07-24"
 }
