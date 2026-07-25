@@ -14678,7 +14678,89 @@
           "count": 0
         }
       ]
+    },
+    "2607.19691": {
+      "title": "SLPO: Scaling Latent Reasoning via a Surrogate Policy",
+      "authors": [
+        "Runyang You",
+        "Zhiyuan Liu",
+        "Yongqi Li",
+        "Wenjie Li"
+      ],
+      "arxiv_id": "2607.19691",
+      "url": "https://arxiv.org/abs/2607.19691",
+      "venue": "arXiv",
+      "venue_rank": "preprint",
+      "first_seen": "2026-07-26",
+      "keywords": [
+        "latent reasoning",
+        "RL",
+        "test-time scaling",
+        "RLVR"
+      ],
+      "citation_history": [
+        {
+          "date": "2026-07-26",
+          "count": 0
+        }
+      ]
+    },
+    "2607.20833": {
+      "title": "REFACT: Adaptive Fact Restatement for Compact and Faithful Chain-of-Thought Reasoning",
+      "authors": [
+        "Zhensheng Jin",
+        "Xin Dai",
+        "Zhenghao Liu",
+        "Chaojun Xiao",
+        "Huiyuan Xie",
+        "Yu Gu",
+        "Ge Yu",
+        "Maosong Sun"
+      ],
+      "arxiv_id": "2607.20833",
+      "url": "https://arxiv.org/abs/2607.20833",
+      "venue": "arXiv",
+      "venue_rank": "preprint",
+      "first_seen": "2026-07-26",
+      "keywords": [
+        "CoT",
+        "faithfulness",
+        "RL",
+        "long-context"
+      ],
+      "citation_history": [
+        {
+          "date": "2026-07-26",
+          "count": 0
+        }
+      ]
+    },
+    "2607.20064": {
+      "title": "PRO-LONG: Programmatic Memory Enables Long-Horizon Reasoning",
+      "authors": [
+        "Alexis Fox",
+        "Junlin Wang",
+        "Paul Rosu",
+        "Bhuwan Dhingra"
+      ],
+      "arxiv_id": "2607.20064",
+      "url": "https://arxiv.org/abs/2607.20064",
+      "venue": "arXiv",
+      "venue_rank": "preprint",
+      "first_seen": "2026-07-26",
+      "keywords": [
+        "LLM agents",
+        "memory",
+        "long-horizon",
+        "ARC-AGI"
+      ],
+      "citation_history": [
+        {
+          "date": "2026-07-26",
+          "count": 0
+        }
+      ]
     }
   },
-  "last_updated": "2026-07-25"
+  "last_updated": "2026-07-26"
 }
