@@ -1,0 +1,19 @@
+{
+  "arxiv_id": "2607.21552v1",
+  "abs_url": "http://arxiv.org/abs/2607.21552v1",
+  "pdf_url": "https://arxiv.org/pdf/2607.21552v1",
+  "title": "MIRROR: Learning from the Other View for Multi-Modal Reasoning",
+  "authors": [
+    "Wen Ye",
+    "Yuxiao Qu",
+    "Aviral Kumar",
+    "Xuezhe Ma"
+  ],
+  "categories": [
+    "cs.AI",
+    "cs.LG"
+  ],
+  "published": "2026-07-23T17:35:56+00:00",
+  "updated": "2026-07-23T17:35:56+00:00",
+  "domain": "machine-learning"
+}

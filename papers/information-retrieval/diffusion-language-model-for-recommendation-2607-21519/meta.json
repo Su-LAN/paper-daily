@@ -1,0 +1,25 @@
+{
+  "arxiv_id": "2607.21519v1",
+  "abs_url": "http://arxiv.org/abs/2607.21519v1",
+  "pdf_url": "https://arxiv.org/pdf/2607.21519v1",
+  "title": "Diffusion Language Model for Recommendation",
+  "authors": [
+    "Chengyi Liu",
+    "Yongqi Zhou",
+    "Junwei Pan",
+    "Zhixiang Feng",
+    "Chengguo Yin",
+    "Haijie Gu",
+    "Jie Jiang",
+    "Yinghao Liu",
+    "Yujuan Ding",
+    "Qing Li",
+    "Wenqi Fan"
+  ],
+  "categories": [
+    "cs.IR"
+  ],
+  "published": "2026-07-23T17:02:12+00:00",
+  "updated": "2026-07-23T17:02:12+00:00",
+  "domain": "information-retrieval"
+}
