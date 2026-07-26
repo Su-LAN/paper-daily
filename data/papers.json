@@ -14760,7 +14760,84 @@
           "count": 0
         }
       ]
+    },
+    "2607.20268": {
+      "title": "PoTRE: Test-Time Reasoning inspired by Cognitive Heterogeneity",
+      "authors": [
+        "Anmol Kankariya",
+        "Sercan Ö. Arık"
+      ],
+      "arxiv_id": "2607.20268",
+      "url": "https://arxiv.org/abs/2607.20268",
+      "venue": "TMLR 2026",
+      "venue_rank": "journal",
+      "first_seen": "2026-07-27",
+      "keywords": [
+        "test-time compute",
+        "reasoning ensembles",
+        "LLM",
+        "reasoning"
+      ],
+      "citation_history": [
+        {
+          "date": "2026-07-27",
+          "count": 0
+        }
+      ]
+    },
+    "2607.20500": {
+      "title": "FlowEdit: Information-Theoretic Control of LLM Reasoning Flows for Ill-posed Problems Involving Conflicts",
+      "authors": [
+        "Sizhe Tang",
+        "Guangyu Jiang",
+        "Yu Li",
+        "Rongqian Chen",
+        "Ioannis G. Kevrekidis",
+        "Tian Lan"
+      ],
+      "arxiv_id": "2607.20500",
+      "url": "https://arxiv.org/abs/2607.20500",
+      "venue": "arXiv",
+      "venue_rank": "preprint",
+      "first_seen": "2026-07-27",
+      "keywords": [
+        "reasoning",
+        "information theory",
+        "LLM",
+        "ill-posed problems"
+      ],
+      "citation_history": [
+        {
+          "date": "2026-07-27",
+          "count": 0
+        }
+      ]
+    },
+    "2607.21433": {
+      "title": "Token Budget Saturation and Mechanistic Early Detection of Reasoning Non-Convergence in Chain-of-Thought Models",
+      "authors": [
+        "Renuka Oladri",
+        "Niveda Jawahar",
+        "Abdirisak Mohamed"
+      ],
+      "arxiv_id": "2607.21433",
+      "url": "https://arxiv.org/abs/2607.21433",
+      "venue": "arXiv",
+      "venue_rank": "preprint",
+      "first_seen": "2026-07-27",
+      "keywords": [
+        "chain-of-thought",
+        "reasoning",
+        "probing",
+        "early exit"
+      ],
+      "citation_history": [
+        {
+          "date": "2026-07-27",
+          "count": 0
+        }
+      ]
     }
   },
-  "last_updated": "2026-07-26"
+  "last_updated": "2026-07-27"
 }
