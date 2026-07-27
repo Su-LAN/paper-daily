@@ -15261,7 +15261,89 @@
           "count": 0
         }
       ]
+    },
+    "2607.22002": {
+      "title": "Learning as Reasoning Unfolds: Progressive Rollout Allocation for Efficient Reinforcement Learning",
+      "authors": [
+        "Heyang Jiang",
+        "Henry Liu",
+        "Baharan Mirzasoleiman"
+      ],
+      "arxiv_id": "2607.22002",
+      "url": "https://arxiv.org/abs/2607.22002",
+      "venue": "arXiv",
+      "venue_rank": "preprint",
+      "first_seen": "2026-07-28",
+      "keywords": [
+        "RLVR",
+        "GRPO",
+        "rollout allocation",
+        "reasoning",
+        "efficiency"
+      ],
+      "citation_history": [
+        {
+          "date": "2026-07-28",
+          "count": 0
+        }
+      ]
+    },
+    "2607.21856": {
+      "title": "LeAct: Learning to Reason from Expert Actions",
+      "authors": [
+        "Ziran Yang",
+        "Chengshuai Shi",
+        "Raj Ghugare",
+        "Benjamin Eysenbach",
+        "Karthik Narasimhan",
+        "Chi Jin"
+      ],
+      "arxiv_id": "2607.21856",
+      "url": "https://arxiv.org/abs/2607.21856",
+      "venue": "arXiv",
+      "venue_rank": "preprint",
+      "first_seen": "2026-07-28",
+      "keywords": [
+        "chain-of-thought",
+        "expert systems",
+        "latent variable",
+        "reasoning",
+        "distillation"
+      ],
+      "citation_history": [
+        {
+          "date": "2026-07-28",
+          "count": 0
+        }
+      ]
+    },
+    "2607.22098": {
+      "title": "Reasoning Denoiser: Denoising Reasoning Traces for Hallucination Detection in Large Reasoning Models",
+      "authors": [
+        "Junlin Fang",
+        "Do Nguyen-Thanh",
+        "Xiaogang Xu",
+        "Zhen Fang",
+        "Sean Du"
+      ],
+      "arxiv_id": "2607.22098",
+      "url": "https://arxiv.org/abs/2607.22098",
+      "venue": "arXiv",
+      "venue_rank": "preprint",
+      "first_seen": "2026-07-28",
+      "keywords": [
+        "hallucination detection",
+        "reasoning traces",
+        "large reasoning models",
+        "denoising"
+      ],
+      "citation_history": [
+        {
+          "date": "2026-07-28",
+          "count": 0
+        }
+      ]
     }
   },
-  "last_updated": "2026-07-27"
+  "last_updated": "2026-07-28"
 }
