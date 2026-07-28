@@ -15683,7 +15683,86 @@
           "count": 0
         }
       ]
+    },
+    "2607.22925": {
+      "title": "Not All LLM Reasoning is Visible in the Chain-of-Thought",
+      "authors": [
+        "Vatsal Baherwani",
+        "Tom Goldstein",
+        "Ashwinee Panda"
+      ],
+      "arxiv_id": "2607.22925",
+      "url": "https://arxiv.org/abs/2607.22925",
+      "venue": "arXiv",
+      "venue_rank": "preprint",
+      "first_seen": "2026-07-29",
+      "keywords": [
+        "chain-of-thought",
+        "faithfulness",
+        "filler tokens",
+        "CoT monitoring",
+        "invisible reasoning"
+      ],
+      "citation_history": [
+        {
+          "date": "2026-07-29",
+          "count": 0
+        }
+      ]
+    },
+    "2607.24471": {
+      "title": "Grounding latent algorithm routing in transformer reasoning",
+      "authors": [
+        "Xiangbo Zhang",
+        "Xiaoxu Ma"
+      ],
+      "arxiv_id": "2607.24471",
+      "url": "https://arxiv.org/abs/2607.24471",
+      "venue": "COLM 2026",
+      "venue_rank": "unranked (new venue)",
+      "first_seen": "2026-07-29",
+      "keywords": [
+        "in-context learning",
+        "algorithm routing",
+        "mechanistic interpretability",
+        "transformer reasoning",
+        "benchmark"
+      ],
+      "citation_history": [
+        {
+          "date": "2026-07-29",
+          "count": 0
+        }
+      ]
+    },
+    "2607.23055": {
+      "title": "SymStep: Symbolic Step Verification for Logical Reasoning",
+      "authors": [
+        "Aida Usmanova",
+        "Rui Gao",
+        "Dilshod Azizov",
+        "Ricardo Usbeck",
+        "Zangir Iklassov"
+      ],
+      "arxiv_id": "2607.23055",
+      "url": "https://arxiv.org/abs/2607.23055",
+      "venue": "arXiv",
+      "venue_rank": "preprint",
+      "first_seen": "2026-07-29",
+      "keywords": [
+        "neuro-symbolic",
+        "constraint propagation",
+        "logical reasoning",
+        "step verification",
+        "chain-of-thought"
+      ],
+      "citation_history": [
+        {
+          "date": "2026-07-29",
+          "count": 0
+        }
+      ]
     }
   },
-  "last_updated": "2026-07-28"
+  "last_updated": "2026-07-29"
 }
