@@ -16222,7 +16222,89 @@
           "count": 0
         }
       ]
+    },
+    "2607.26952": {
+      "title": "Credit Cards, Confusion, Computation, and Consequences: What Can We Uncover About Language Model Reasoning?",
+      "authors": [
+        "Arnav Hiray",
+        "Agam Shah",
+        "Caleb Lu",
+        "Meghaj Tarte",
+        "Harsit Mittal",
+        "Sudheer Chava"
+      ],
+      "arxiv_id": "2607.26952",
+      "url": "https://arxiv.org/abs/2607.26952",
+      "venue": "COLM 2026",
+      "venue_rank": "unranked (new venue)",
+      "first_seen": "2026-07-31",
+      "keywords": [
+        "numerical reasoning",
+        "financial benchmark",
+        "chain-of-thought",
+        "program-of-thought",
+        "error analysis"
+      ],
+      "citation_history": [
+        {
+          "date": "2026-07-31",
+          "count": 0
+        }
+      ]
+    },
+    "2607.26119": {
+      "title": "Probing the Origins of Reasoning Performance: Representational Quality for Mathematical Problem-Solving in RL vs. SFT Fine-Tuned Models",
+      "authors": [
+        "Antyabha Rahman",
+        "Akshaj Gurugubelli",
+        "Omar Ankit",
+        "Kevin Zhu",
+        "Aishwarya Balwani"
+      ],
+      "arxiv_id": "2607.26119",
+      "url": "https://arxiv.org/abs/2607.26119",
+      "venue": "AAAI 2026 XAI4Science Workshop",
+      "venue_rank": "workshop",
+      "first_seen": "2026-07-31",
+      "keywords": [
+        "RL vs SFT",
+        "mathematical reasoning",
+        "linear probes",
+        "mechanistic interpretability",
+        "representation analysis"
+      ],
+      "citation_history": [
+        {
+          "date": "2026-07-31",
+          "count": 0
+        }
+      ]
+    },
+    "2607.26865": {
+      "title": "Think Short, Defer Smart, Act, and Repeat: Calibrated Reasoning and Uncertainty-Aware Deferral for Edge LLM Agents",
+      "authors": [
+        "Amirmohammad Farzaneh",
+        "Osvaldo Simeone"
+      ],
+      "arxiv_id": "2607.26865",
+      "url": "https://arxiv.org/abs/2607.26865",
+      "venue": "arXiv",
+      "venue_rank": "preprint",
+      "first_seen": "2026-07-31",
+      "keywords": [
+        "reasoning efficiency",
+        "LLM agents",
+        "calibration",
+        "cloud deferral",
+        "edge deployment"
+      ],
+      "citation_history": [
+        {
+          "date": "2026-07-31",
+          "count": 0
+        }
+      ]
     }
   },
-  "last_updated": "2026-07-29"
+  "last_updated": "2026-07-31"
 }
