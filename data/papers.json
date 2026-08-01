@@ -16592,7 +16592,87 @@
           "count": 0
         }
       ]
+    },
+    "2607.27888": {
+      "title": "Not All Tokens Deserve Equal Credit: Counterfactual Sensitivity Credit Reallocation for Long-CoT Reasoning",
+      "authors": [
+        "Qiangqiang He",
+        "Zhongheng Wu",
+        "ZiJian Wang"
+      ],
+      "arxiv_id": "2607.27888",
+      "url": "https://arxiv.org/abs/2607.27888",
+      "venue": "arXiv",
+      "venue_rank": "preprint",
+      "first_seen": "2026-08-02",
+      "keywords": [
+        "RLVR",
+        "GRPO",
+        "credit assignment",
+        "long chain-of-thought",
+        "mathematical reasoning"
+      ],
+      "citation_history": [
+        {
+          "date": "2026-08-02",
+          "count": 0
+        }
+      ]
+    },
+    "2607.27631": {
+      "title": "ReDiPPO: Reference-Guided Value Calibration and Discrepancy-Aware Token Reweighting for Mathematical Reasoning",
+      "authors": [
+        "Zhenrong Zhang",
+        "Fei Wu",
+        "Jun Du",
+        "Jianshu Zhang",
+        "Si Wei"
+      ],
+      "arxiv_id": "2607.27631",
+      "url": "https://arxiv.org/abs/2607.27631",
+      "venue": "arXiv",
+      "venue_rank": "preprint",
+      "first_seen": "2026-08-02",
+      "keywords": [
+        "PPO",
+        "value calibration",
+        "token reweighting",
+        "mathematical reasoning",
+        "reinforcement learning"
+      ],
+      "citation_history": [
+        {
+          "date": "2026-08-02",
+          "count": 0
+        }
+      ]
+    },
+    "2607.28449": {
+      "title": "Lightning OPD 2.0: Mitigating Style Bias in Cross-Teacher On-Policy Distillation for Large Reasoning Models",
+      "authors": [
+        "Yecheng Wu",
+        "Song Han",
+        "Han Cai"
+      ],
+      "arxiv_id": "2607.28449",
+      "url": "https://arxiv.org/abs/2607.28449",
+      "venue": "arXiv",
+      "venue_rank": "preprint",
+      "first_seen": "2026-08-02",
+      "keywords": [
+        "on-policy distillation",
+        "large reasoning models",
+        "style bias",
+        "math reasoning",
+        "code generation"
+      ],
+      "citation_history": [
+        {
+          "date": "2026-08-02",
+          "count": 0
+        }
+      ]
     }
   },
-  "last_updated": "2026-07-31"
+  "last_updated": "2026-08-02"
 }
