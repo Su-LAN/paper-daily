@@ -17288,7 +17288,89 @@
           "count": 0
         }
       ]
+    },
+    "2607.27783": {
+      "title": "Reasoning Consensus: Structural Ensembling of LLM Reasoning via Weighted DAG Aggregation",
+      "authors": [
+        "Amruta Parulekar",
+        "Jinu Lee",
+        "Dilek Hakkani-Tür",
+        "Hari Sundaram"
+      ],
+      "arxiv_id": "2607.27783",
+      "url": "https://arxiv.org/abs/2607.27783",
+      "venue": "arXiv",
+      "venue_rank": "preprint",
+      "first_seen": "2026-08-03",
+      "keywords": [
+        "reasoning ensemble",
+        "DAG aggregation",
+        "self-consistency",
+        "test-time compute",
+        "interpretability"
+      ],
+      "citation_history": [
+        {
+          "date": "2026-08-03",
+          "count": 0
+        }
+      ]
+    },
+    "2607.27770": {
+      "title": "Beyond the Best Teacher: Expanding and Compressing the Reasoning Solution Manifold",
+      "authors": [
+        "Songshuo Lu",
+        "Zhi Chen",
+        "Yaohua Tang"
+      ],
+      "arxiv_id": "2607.27770",
+      "url": "https://arxiv.org/abs/2607.27770",
+      "venue": "arXiv",
+      "venue_rank": "preprint",
+      "first_seen": "2026-08-03",
+      "keywords": [
+        "reasoning RL",
+        "multi-teacher distillation",
+        "GRPO",
+        "on-policy distillation",
+        "solution manifold"
+      ],
+      "citation_history": [
+        {
+          "date": "2026-08-03",
+          "count": 0
+        }
+      ]
+    },
+    "2607.28478": {
+      "title": "Would You Walk to the Car Wash? Revealing the Salience Bias of Large Language Models in Commonsense Reasoning",
+      "authors": [
+        "Zheng Wu",
+        "Chenhao Xue",
+        "Shijie Zheng",
+        "Yijie Lu",
+        "Cheng Yang",
+        "Zhuosheng Zhang"
+      ],
+      "arxiv_id": "2607.28478",
+      "url": "https://arxiv.org/abs/2607.28478",
+      "venue": "arXiv",
+      "venue_rank": "preprint",
+      "first_seen": "2026-08-03",
+      "keywords": [
+        "commonsense reasoning",
+        "salience bias",
+        "benchmark",
+        "evaluation",
+        "robustness"
+      ],
+      "citation_history": [
+        {
+          "date": "2026-08-03",
+          "count": 0
+        }
+      ]
     }
   },
-  "last_updated": "2026-08-02"
+  "last_updated": "2026-08-03"
 }
