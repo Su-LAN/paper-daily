@@ -17958,7 +17958,101 @@
           "count": 0
         }
       ]
+    },
+    "2607.29211": {
+      "title": "Knowing When to Quit: Diagnosing and Training LLMs to Abort Futile Reasoning",
+      "authors": [
+        "Xinyan Guan",
+        "Jiali Zeng",
+        "Chunlei Xin",
+        "Yaojie Lu",
+        "Hongyu Lin",
+        "Xianpei Han",
+        "Le Sun",
+        "Fandong Meng"
+      ],
+      "arxiv_id": "2607.29211",
+      "url": "https://arxiv.org/abs/2607.29211",
+      "venue": "arXiv",
+      "venue_rank": "preprint",
+      "first_seen": "2026-08-04",
+      "keywords": [
+        "futile reasoning",
+        "refusal",
+        "reinforcement learning",
+        "calibration",
+        "LLM"
+      ],
+      "citation_history": [
+        {
+          "date": "2026-08-04",
+          "count": 1
+        }
+      ]
+    },
+    "2607.28707": {
+      "title": "Demystifying Entropy-based Selection for Chain-of-Thought Compression in Large Reasoning Models",
+      "authors": [
+        "Sara Candussio",
+        "Daniel Scalena",
+        "Luca Bortolussi",
+        "Elisabetta Fersini",
+        "Malvina Nissim",
+        "Gabriele Sarti"
+      ],
+      "arxiv_id": "2607.28707",
+      "url": "https://arxiv.org/abs/2607.28707",
+      "venue": "arXiv",
+      "venue_rank": "preprint",
+      "first_seen": "2026-08-04",
+      "keywords": [
+        "chain-of-thought",
+        "CoT compression",
+        "entropy",
+        "efficient reasoning",
+        "interpretability"
+      ],
+      "citation_history": [
+        {
+          "date": "2026-08-04",
+          "count": 0
+        }
+      ]
+    },
+    "2607.28674": {
+      "title": "How Hard Does It Think? Analyzing Step-Aware Reasoning Energy in LLM Chain-of-Thought Trajectories",
+      "authors": [
+        "Hui Wei",
+        "Junda Wu",
+        "Sheldon Yu",
+        "Sizhe Zhou",
+        "Yizhu Jiao",
+        "Ming Zhong",
+        "Bowen Jin",
+        "Tong Yu",
+        "Shijia Pan",
+        "Jiawei Han",
+        "Julian McAuley"
+      ],
+      "arxiv_id": "2607.28674",
+      "url": "https://arxiv.org/abs/2607.28674",
+      "venue": "arXiv",
+      "venue_rank": "preprint",
+      "first_seen": "2026-08-04",
+      "keywords": [
+        "chain-of-thought",
+        "interpretability",
+        "CKA",
+        "reasoning energy",
+        "LLM"
+      ],
+      "citation_history": [
+        {
+          "date": "2026-08-04",
+          "count": 0
+        }
+      ]
     }
   },
-  "last_updated": "2026-08-03"
+  "last_updated": "2026-08-04"
 }
