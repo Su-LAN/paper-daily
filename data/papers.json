@@ -18016,6 +18016,10 @@
         {
           "date": "2026-08-04",
           "count": 0
+        },
+        {
+          "date": "2026-08-05",
+          "count": 0
         }
       ]
     },
@@ -18052,7 +18056,98 @@
           "count": 0
         }
       ]
+    },
+    "2608.02149": {
+      "title": "Beyond the Mean: Multi-Moment Policy Optimization for LLM Reasoning",
+      "authors": [
+        "Yijun Zhang",
+        "Yule Xie",
+        "Jiaxin Ding",
+        "Xin Ding",
+        "Fan Xu",
+        "Haoxiang Zhang",
+        "Luoyi Fu"
+      ],
+      "arxiv_id": "2608.02149",
+      "url": "https://arxiv.org/abs/2608.02149",
+      "venue": "arXiv",
+      "venue_rank": "preprint",
+      "first_seen": "2026-08-05",
+      "keywords": [
+        "reinforcement learning",
+        "policy optimization",
+        "moment-based objectives",
+        "mathematical reasoning",
+        "LLM"
+      ],
+      "citation_history": [
+        {
+          "date": "2026-08-05",
+          "count": 0
+        }
+      ]
+    },
+    "2608.03068": {
+      "title": "CVPO: Enhancing LLM Reinforcement Learning Reasoning via Value-Variance Adaptation and Dynamic Curriculum Learning",
+      "authors": [
+        "Ziqi Jia",
+        "Yalu Ouyang",
+        "Bo Pang",
+        "Panpan Li",
+        "Hangfei Xu",
+        "Shengzhao Wen",
+        "Shiyong Li",
+        "Yanpeng Wang"
+      ],
+      "arxiv_id": "2608.03068",
+      "url": "https://arxiv.org/abs/2608.03068",
+      "venue": "arXiv",
+      "venue_rank": "preprint",
+      "first_seen": "2026-08-05",
+      "keywords": [
+        "reinforcement learning",
+        "value-based RL",
+        "curriculum learning",
+        "advantage estimation",
+        "mathematical reasoning"
+      ],
+      "citation_history": [
+        {
+          "date": "2026-08-05",
+          "count": 0
+        }
+      ]
+    },
+    "2608.02442": {
+      "title": "Right Answer, Wrong Method: Shortcut Hacking Misleads the Evaluation of LLM Reasoning on Frontier Science Benchmarks",
+      "authors": [
+        "Xuan Ren",
+        "Weiqi Zhai",
+        "Tianle Pu",
+        "Yihua Zhu",
+        "Yihua Zhu",
+        "Hu Wei",
+        "Bing Zhao"
+      ],
+      "arxiv_id": "2608.02442",
+      "url": "https://arxiv.org/abs/2608.02442",
+      "venue": "arXiv",
+      "venue_rank": "preprint",
+      "first_seen": "2026-08-05",
+      "keywords": [
+        "reasoning evaluation",
+        "benchmark",
+        "solution hacking",
+        "scientific reasoning",
+        "LLM"
+      ],
+      "citation_history": [
+        {
+          "date": "2026-08-05",
+          "count": 0
+        }
+      ]
     }
   },
-  "last_updated": "2026-08-04"
+  "last_updated": "2026-08-05"
 }
