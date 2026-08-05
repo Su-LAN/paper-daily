@@ -18739,7 +18739,105 @@
           "count": 0
         }
       ]
+    },
+    "2608.04001": {
+      "title": "Test-Time Scaling in Reasoning LLMs: Inference Regimes, Evaluation, and Reproducibility",
+      "authors": [
+        "Mohsen Hariri",
+        "Weicong Chen",
+        "Nahal Shahini",
+        "Vikash Singh",
+        "Kai Ye",
+        "Amirhossein Samandar",
+        "Debargha Ganguly",
+        "Sreehari Sankar",
+        "Yanyan Zhang",
+        "Shouren Wang",
+        "Jerry Peng",
+        "Biyao Zhang",
+        "Michael Hinczewski",
+        "Vipin Chaudhary"
+      ],
+      "arxiv_id": "2608.04001",
+      "url": "https://arxiv.org/abs/2608.04001",
+      "venue": "arXiv",
+      "venue_rank": "preprint",
+      "first_seen": "2026-08-06",
+      "keywords": [
+        "test-time scaling",
+        "inference-time compute",
+        "evaluation",
+        "reproducibility",
+        "reasoning"
+      ],
+      "citation_history": [
+        {
+          "date": "2026-08-06",
+          "count": 0
+        }
+      ]
+    },
+    "2608.03972": {
+      "title": "ReflectRL: Learning from Golden Negative Trajectories via Reflective-to-Direct Reasoning",
+      "authors": [
+        "Jinhe Bi",
+        "Chennan Zhou",
+        "Zengjie Jin",
+        "Aniri",
+        "Shuo Lu",
+        "Wenke Huang",
+        "Hu Cao",
+        "Xun Xiao",
+        "Zhihong Zhu",
+        "Volker Tresp",
+        "Fei Shen",
+        "Yunpu Ma",
+        "Tat-Seng Chua"
+      ],
+      "arxiv_id": "2608.03972",
+      "url": "https://arxiv.org/abs/2608.03972",
+      "venue": "arXiv",
+      "venue_rank": "preprint",
+      "first_seen": "2026-08-06",
+      "keywords": [
+        "reinforcement learning",
+        "on-policy training",
+        "negative trajectories",
+        "reflection",
+        "reasoning"
+      ],
+      "citation_history": [
+        {
+          "date": "2026-08-06",
+          "count": 0
+        }
+      ]
+    },
+    "2608.03291": {
+      "title": "The Tell-Tale Trace: Detecting Reasoning Failures in LLMs Using Chain-of-Thought Dynamics",
+      "authors": [
+        "Shashwat Sourav",
+        "Aishwarya Balwani"
+      ],
+      "arxiv_id": "2608.03291",
+      "url": "https://arxiv.org/abs/2608.03291",
+      "venue": "arXiv",
+      "venue_rank": "preprint",
+      "first_seen": "2026-08-06",
+      "keywords": [
+        "chain-of-thought",
+        "reasoning failure detection",
+        "SAT",
+        "interpretability",
+        "reasoning"
+      ],
+      "citation_history": [
+        {
+          "date": "2026-08-06",
+          "count": 0
+        }
+      ]
     }
   },
-  "last_updated": "2026-08-05"
+  "last_updated": "2026-08-06"
 }
